@@ -1,10 +1,93 @@
 {
  "overall": "yellow",
- "updated": "2026-09-18T12:00:00+00:00",
- "freshness": { "ageHours": 0, "reference": "2026-09-18T12:00:00+00:00" },
- "counts": { "green": 0, "yellow": 0, "red": 0 },
- "alertCount": 1,
- "alerts": [ { "msg": "Aguardando a primeira execucao do workflow Atualizar ofertas." } ],
- "environment": "inicial",
- "coverage": "aguardando primeira coleta"
+ "updated": "2026-09-18T21:27:26+00:00",
+ "freshness": {
+  "ageHours": 0,
+  "reference": "2026-09-18T21:27:26+00:00"
+ },
+ "counts": {
+  "green": 109,
+  "yellow": 44,
+  "red": 407
+ },
+ "alertCount": 407,
+ "alerts": [
+  {
+   "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · AGUDOS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · ALVARES MACHADO: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · AMERICANA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · AMPARO: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · ANDRADINA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · APARECIDA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · ARACATUBA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · ARARAQUARA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · ARARAS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · AVARE: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BADY BASSITT: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BARRETOS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BARRINHA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BATATAIS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BAURU: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BEBEDOURO: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BERTIOGA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BIRIGUI: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BOITUVA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · BOTUCATU: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · CACAPAVA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Claro · CACHOEIRA PAULISTA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+  }
+ ],
+ "environment": "producao",
+ "coverage": "442 de 560 pontos cidade-operadora"
 }
