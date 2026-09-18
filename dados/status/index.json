@@ -1,0 +1,10 @@
+{
+ "overall": "yellow",
+ "updated": "2026-09-18T12:00:00+00:00",
+ "freshness": { "ageHours": 0, "reference": "2026-09-18T12:00:00+00:00" },
+ "counts": { "green": 0, "yellow": 0, "red": 0 },
+ "alertCount": 1,
+ "alerts": [ { "msg": "Aguardando a primeira execucao do workflow Atualizar ofertas." } ],
+ "environment": "inicial",
+ "coverage": "aguardando primeira coleta"
+}
