@@ -1,0 +1,62 @@
+name: Atualizar ofertas
+
+# Coleta as ofertas nas URLs da coluna FONTE_SITE (COMPARATIVO_OFERTAS).
+# Horarios em UTC. Brasilia = UTC-3.
+on:
+  schedule:
+    - cron: '25 9,15,21 * * *'   # 06:25, 12:25 e 18:25 em Brasilia
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Executar sem gravar (apenas validar)'
+        type: boolean
+        default: false
+      operadora:
+        description: 'Limitar a uma operadora (vazio = todas)'
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-ofertas
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Obter repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Executar coletor
+        run: |
+          python scripts/coletar_ofertas.py \
+            --ambiente producao \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            ${{ inputs.operadora && format('--operadora {0}', inputs.operadora) || '' }}
+
+      - name: Resumo da execucao
+        if: always()
+        run: python scripts/resumo.py >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publicar alteracoes
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dados/ofertas.json dados/status/index.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao de oferta nesta execucao."
+            exit 0
+          fi
+          git commit -m "Atualizacao automatica via FONTE_SITE — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
