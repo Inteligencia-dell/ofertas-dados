@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-18T21:27:26+00:00",
+  "updated": "2026-09-18T21:31:30+00:00",
   "environment": "producao",
   "coverage": "442 de 560 pontos cidade-operadora",
   "generator": "coletar_ofertas.py",
@@ -2082,102 +2082,82 @@
    "c": "AGUDOS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3501608",
    "c": "AMERICANA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3501707",
    "c": "AMERICO BRASILIENSE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3501905",
    "c": "AMPARO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3503208",
    "c": "ARARAQUARA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3503307",
    "c": "ARARAS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -2192,7 +2172,7 @@
    "c": "ARTUR NOGUEIRA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -2207,7 +2187,7 @@
    "c": "AVARE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -2222,7 +2202,7 @@
    "c": "BADY BASSITT",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
@@ -2237,7 +2217,7 @@
    "c": "BARRETOS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
@@ -2252,26 +2232,22 @@
    "c": "BAURU",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3506102",
    "c": "BEBEDOURO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
@@ -2286,45 +2262,37 @@
    "c": "BOITUVA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3507506",
    "c": "BOTUCATU",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3508504",
    "c": "CACAPAVA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
@@ -2339,102 +2307,82 @@
    "c": "CAMPINAS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3510401",
    "c": "CAPIVARI",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3510807",
    "c": "CASA BRANCA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3511508",
    "c": "CERQUILHO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3512407",
    "c": "CORDEIROPOLIS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3512803",
    "c": "COSMOPOLIS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -2449,7 +2397,7 @@
    "c": "CRAVINHOS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
@@ -2464,102 +2412,82 @@
    "c": "CUBATAO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3513702",
    "c": "DESCALVADO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3514908",
    "c": "ELIAS FAUSTO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3516200",
    "c": "FRANCA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3517406",
    "c": "GUAIRA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3517505",
    "c": "GUAPIACU",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
@@ -2574,102 +2502,82 @@
    "c": "GUARUJA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3519071",
    "c": "HORTOLANDIA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3519303",
    "c": "IBATE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3520509",
    "c": "INDAIATUBA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3521002",
    "c": "IPERO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3522109",
    "c": "ITANHAEM",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
@@ -2684,7 +2592,7 @@
    "c": "ITAPETININGA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -2699,102 +2607,82 @@
    "c": "JABOTICABAL",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3524402",
    "c": "JACAREI",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3524709",
    "c": "JAGUARIUNA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3525300",
    "c": "JAU",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3526407",
    "c": "LARANJAL PAULISTA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3526704",
    "c": "LEME",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -2809,26 +2697,22 @@
    "c": "LENCOIS PAULISTA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3526902",
    "c": "LIMEIRA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -2843,7 +2727,7 @@
    "c": "LINS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
@@ -2858,45 +2742,37 @@
    "c": "LOUVEIRA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3529302",
    "c": "MATAO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3530300",
    "c": "MIRASSOL",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
@@ -2911,7 +2787,7 @@
    "c": "MOGI GUACU",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -2926,7 +2802,7 @@
    "c": "MOGI MIRIM",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -2941,7 +2817,7 @@
    "c": "MONGAGUA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
@@ -2956,121 +2832,97 @@
    "c": "MONTE ALTO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3531803",
    "c": "MONTE MOR",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3533403",
    "c": "NOVA ODESSA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3533908",
    "c": "OLIMPIA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3536505",
    "c": "PAULINIA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3537107",
    "c": "PEDREIRA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3537602",
    "c": "PERUIBE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
@@ -3085,26 +2937,22 @@
    "c": "PIRACICABA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3539301",
    "c": "PIRASSUNUNGA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -3119,7 +2967,7 @@
    "c": "PORTO FERREIRA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -3134,45 +2982,37 @@
    "c": "PRAIA GRANDE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3542107",
    "c": "RAFARD",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3543402",
    "c": "RIBEIRAO PRETO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
@@ -3187,7 +3027,7 @@
    "c": "RIO CLARO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -3202,26 +3042,22 @@
    "c": "SANTA BARBARA D OESTE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3546306",
    "c": "SANTA CRUZ DAS PALMEIRAS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -3236,7 +3072,7 @@
    "c": "SANTA GERTRUDES",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -3251,7 +3087,7 @@
    "c": "SANTA ROSA DE VITERBO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 89.99,
    "speed": 600,
@@ -3266,45 +3102,37 @@
    "c": "SANTOS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3548906",
    "c": "SAO CARLOS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3549805",
    "c": "SAO JOSE DO RIO PRETO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
@@ -3319,83 +3147,67 @@
    "c": "SAO JOSE DOS CAMPOS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3551009",
    "c": "SAO VICENTE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3552205",
    "c": "SOROCABA",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3552403",
    "c": "SUMARE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3553302",
    "c": "TAMBAU",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -3410,26 +3222,22 @@
    "c": "TATUI",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3554102",
    "c": "TAUBATE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 89.99,
    "speed": 600,
@@ -3444,26 +3252,22 @@
    "c": "TIETE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3554805",
    "c": "TREMEMBE",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "SUDESTE",
    "price": 89.99,
    "speed": 600,
@@ -3478,7 +3282,7 @@
    "c": "VALINHOS",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
@@ -3493,38 +3297,30 @@
    "c": "VINHEDO",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3557006",
    "c": "VOTORANTIM",
    "op": "Desktop",
    "src": "https://www.desktop.com.br/internet/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 89.99,
    "speed": 600,
    "name": "600 Mega",
    "gb": 15.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 139.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3500709",
@@ -4836,361 +4632,285 @@
    "c": "ARARAQUARA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3505500",
    "c": "BARRETOS",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3505906",
    "c": "BATATAIS",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3512803",
    "c": "COSMOPOLIS",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3513108",
    "c": "CRAVINHOS",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3516200",
    "c": "FRANCA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3517406",
    "c": "GUAIRA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 109.9,
    "speed": 600,
    "name": "600 Mega",
    "gb": 45.0,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 114.8,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3524105",
    "c": "ITUVERAVA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3524303",
    "c": "JABOTICABAL",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3525102",
    "c": "JARDINOPOLIS",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3529302",
    "c": "MATAO",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3534302",
    "c": "ORLANDIA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3536505",
    "c": "PAULINIA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "CENTRAL",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3543402",
    "c": "RIBEIRAO PRETO",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3548500",
    "c": "SANTOS",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "LITORAL",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3548906",
    "c": "SAO CARLOS",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3549409",
    "c": "SAO JOAQUIM DA BARRA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "NOROESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3549805",
    "c": "SAO JOSE DO RIO PRETO",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3552205",
    "c": "SOROCABA",
    "op": "Algar",
    "src": "https://loja.algar.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "terr": "OESTE",
    "price": 144.9,
    "speed": 800,
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3500105",
@@ -5517,7 +5237,7 @@
    "c": "AVARE",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "SUDESTE",
    "price": 114.8,
@@ -5525,19 +5245,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3507001",
    "c": "BOITUVA",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "SUDESTE",
    "price": 114.8,
@@ -5545,19 +5261,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3511508",
    "c": "CERQUILHO",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "SUDESTE",
    "price": 114.8,
@@ -5565,19 +5277,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3521002",
    "c": "IPERO",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "SUDESTE",
    "price": 114.8,
@@ -5585,19 +5293,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3522406",
    "c": "ITAPEVA",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "SUDESTE",
    "price": 114.8,
@@ -5605,19 +5309,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3526407",
    "c": "LARANJAL PAULISTA",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "NOROESTE",
    "price": 114.8,
@@ -5625,19 +5325,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3554003",
    "c": "TATUI",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "SUDESTE",
    "price": 114.8,
@@ -5645,19 +5341,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3554508",
    "c": "TIETE",
    "op": "ISP LOCAL",
    "src": "https://www.zaaztelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ZAAZ",
    "terr": "OESTE",
    "price": 114.8,
@@ -5665,12 +5357,8 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3505906",
@@ -5885,7 +5573,7 @@
    "c": "AMPARO",
    "op": "ISP LOCAL",
    "src": "https://www.teleson.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "TELESON",
    "terr": "SUDESTE",
    "price": 159.0,
@@ -5893,19 +5581,15 @@
    "name": "650 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 159.9,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3524709",
    "c": "JAGUARIUNA",
    "op": "ISP LOCAL",
    "src": "https://www.teleson.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "TELESON",
    "terr": "CENTRAL",
    "price": 159.0,
@@ -5913,19 +5597,15 @@
    "name": "650 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 159.9,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3537107",
    "c": "PEDREIRA",
    "op": "ISP LOCAL",
    "src": "https://www.teleson.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "TELESON",
    "terr": "SUDESTE",
    "price": 159.0,
@@ -5933,19 +5613,15 @@
    "name": "650 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 159.9,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3551603",
    "c": "SERRA NEGRA",
    "op": "ISP LOCAL",
    "src": "https://www.teleson.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "TELESON",
    "terr": "SUDESTE",
    "price": 159.0,
@@ -5953,12 +5629,8 @@
    "name": "650 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 159.9,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3503307",
@@ -6061,7 +5733,7 @@
    "c": "HORTOLANDIA",
    "op": "ISP LOCAL",
    "src": "https://clicknet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "CLICKNET",
    "terr": "CENTRAL",
    "price": 99.0,
@@ -6069,19 +5741,15 @@
    "name": "700 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.99,
-    "speed": 700.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3531803",
    "c": "MONTE MOR",
    "op": "ISP LOCAL",
    "src": "https://clicknet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "CLICKNET",
    "terr": "CENTRAL",
    "price": 99.0,
@@ -6089,19 +5757,15 @@
    "name": "700 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.99,
-    "speed": 700.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3533403",
    "c": "NOVA ODESSA",
    "op": "ISP LOCAL",
    "src": "https://clicknet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "CLICKNET",
    "terr": "CENTRAL",
    "price": 99.0,
@@ -6109,19 +5773,15 @@
    "name": "700 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.99,
-    "speed": 700.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3522109",
    "c": "ITANHAEM",
    "op": "ISP LOCAL",
    "src": "https://www.eteccnet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ETECCNET",
    "terr": "LITORAL",
    "price": 109.9,
@@ -6129,19 +5789,15 @@
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 109.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3531100",
    "c": "MONGAGUA",
    "op": "ISP LOCAL",
    "src": "https://www.eteccnet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ETECCNET",
    "terr": "LITORAL",
    "price": 109.9,
@@ -6149,19 +5805,15 @@
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 109.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3537602",
    "c": "PERUIBE",
    "op": "ISP LOCAL",
    "src": "https://www.eteccnet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "ETECCNET",
    "terr": "LITORAL",
    "price": 109.9,
@@ -6169,12 +5821,8 @@
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 109.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3500709",
@@ -6213,7 +5861,7 @@
    "c": "AMERICANA",
    "op": "ISP LOCAL",
    "src": "https://sostelecom.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "SOS",
    "terr": "CENTRAL",
    "price": 89.9,
@@ -6221,19 +5869,15 @@
    "name": "300 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 115.8,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3545803",
    "c": "SANTA BARBARA D OESTE",
    "op": "ISP LOCAL",
    "src": "https://sostelecom.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "SOS",
    "terr": "CENTRAL",
    "price": 89.9,
@@ -6241,12 +5885,8 @@
    "name": "300 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 115.8,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3502101",
@@ -6349,7 +5989,7 @@
    "c": "ESPIRITO SANTO DO PINHAL",
    "op": "ISP LOCAL",
    "src": "https://telemidia.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "TELEMÍDIA",
    "terr": "SUDESTE",
    "price": 109.9,
@@ -6365,7 +6005,7 @@
    "c": "SAO JOAO DA BOA VISTA",
    "op": "ISP LOCAL",
    "src": "https://telemidia.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "TELEMÍDIA",
    "terr": "SUDESTE",
    "price": 109.9,
@@ -6445,7 +6085,7 @@
    "c": "GUARATINGUETA",
    "op": "ISP LOCAL",
    "src": "https://www.provale.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "PROVALE",
    "terr": "SUDESTE",
    "price": 99.9,
@@ -6461,7 +6101,7 @@
    "c": "POTIM",
    "op": "ISP LOCAL",
    "src": "https://www.provale.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "PROVALE",
    "terr": "SUDESTE",
    "price": 99.9,
@@ -6525,7 +6165,7 @@
    "c": "ARACATUBA",
    "op": "ISP LOCAL",
    "src": "https://votitelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "VOTI",
    "terr": "NOROESTE",
    "price": 39.9,
@@ -6533,19 +6173,15 @@
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3503208",
    "c": "ARARAQUARA",
    "op": "ISP LOCAL",
    "src": "https://www.netfasttelecom.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "NETFAST",
    "terr": "OESTE",
    "price": 109.99,
@@ -6561,7 +6197,7 @@
    "c": "ARTUR NOGUEIRA",
    "op": "ISP LOCAL",
    "src": "https://www.netaki.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "NETAKI",
    "terr": "CENTRAL",
    "price": 159.9,
@@ -6569,19 +6205,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3506003",
    "c": "BAURU",
    "op": "ISP LOCAL",
    "src": "https://aonet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "AONET",
    "terr": "OESTE",
    "price": 109.9,
@@ -6597,7 +6229,7 @@
    "c": "BOTUCATU",
    "op": "ISP LOCAL",
    "src": "https://connect10.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "CONNECT10",
    "terr": "SUDESTE",
    "price": 79.9,
@@ -6605,12 +6237,8 @@
    "name": "1000 Mega",
    "gb": null,
    "benefits": "GLOBOPLAY",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 129.9,
-    "speed": 1000.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3509700",
@@ -6633,7 +6261,7 @@
    "c": "CATANDUVA",
    "op": "ISP LOCAL",
    "src": "https://netflexbr.com/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "NETFLEX",
    "terr": "NOROESTE",
    "price": 99.0,
@@ -6641,19 +6269,15 @@
    "name": "500 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.99,
-    "speed": 1000.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3512803",
    "c": "COSMOPOLIS",
    "op": "ISP LOCAL",
    "src": "https://netnz.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "NRT NZ",
    "terr": "CENTRAL",
    "price": 134.9,
@@ -6661,19 +6285,15 @@
    "name": "300 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 300.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3513405",
    "c": "CRUZEIRO",
    "op": "ISP LOCAL",
    "src": "https://www.dbnet.com.vc/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "DBNET",
    "terr": "SUDESTE",
    "price": 99.9,
@@ -6689,7 +6309,7 @@
    "c": "CUBATAO",
    "op": "ISP LOCAL",
    "src": "https://www.updowntelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "UPDOWN",
    "terr": "LITORAL",
    "price": 50.0,
@@ -6697,19 +6317,15 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3513702",
    "c": "DESCALVADO",
    "op": "ISP LOCAL",
    "src": "https://www.descalnet.com.br/descalvado/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "DESCALNET",
    "terr": "SUDESTE",
    "price": 99.0,
@@ -6717,19 +6333,15 @@
    "name": "650 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 650.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3519303",
    "c": "IBATE",
    "op": "ISP LOCAL",
    "src": "https://aguianet.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "AGUIA NET",
    "terr": "NOROESTE",
    "price": 79.0,
@@ -6737,12 +6349,8 @@
    "name": "500 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.0,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3520509",
@@ -6765,7 +6373,7 @@
    "c": "ITAPETININGA",
    "op": "ISP LOCAL",
    "src": "https://mhnet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "MHNET",
    "terr": "SUDESTE",
    "price": 39.0,
@@ -6773,19 +6381,15 @@
    "name": "500 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 500.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3522604",
    "c": "ITAPIRA",
    "op": "ISP LOCAL",
    "src": "https://bsconect.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "BS CONECT",
    "terr": "SUDESTE",
    "price": 99.9,
@@ -6801,7 +6405,7 @@
    "c": "ITUVERAVA",
    "op": "ISP LOCAL",
    "src": "https://webroute.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "WEB ROUTE",
    "terr": "NOROESTE",
    "price": 99.0,
@@ -6809,12 +6413,8 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3524402",
@@ -6837,7 +6437,7 @@
    "c": "LENCOIS PAULISTA",
    "op": "ISP LOCAL",
    "src": "https://davoi.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "DAVOI",
    "terr": "SUDESTE",
    "price": 118.9,
@@ -6845,19 +6445,15 @@
    "name": "650 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3527207",
    "c": "LORENA",
    "op": "ISP LOCAL",
    "src": "https://velloznet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "VELLOZNET",
    "terr": "SUDESTE",
    "price": 139.9,
@@ -6865,19 +6461,15 @@
    "name": "1000 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3527306",
    "c": "LOUVEIRA",
    "op": "ISP LOCAL",
    "src": "https://exon.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "EXON",
    "terr": "SUDESTE",
    "price": 29.9,
@@ -6885,12 +6477,8 @@
    "name": "8000 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3529302",
@@ -6913,7 +6501,7 @@
    "c": "MIRANDOPOLIS",
    "op": "ISP LOCAL",
    "src": "https://www.insidesign.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "INSIDESIGN",
    "terr": "NOROESTE",
    "price": 59.9,
@@ -6921,19 +6509,15 @@
    "name": "800 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.9,
-    "speed": 800.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3530805",
    "c": "MOGI MIRIM",
    "op": "ISP LOCAL",
    "src": "https://www.neolink.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "NEOLINK",
    "terr": "CENTRAL",
    "price": 59.0,
@@ -6941,19 +6525,15 @@
    "name": "700 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "media",
-   "previous": {
-    "price": 99.9,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "media"
   },
   {
    "ib": "3533908",
    "c": "OLIMPIA",
    "op": "ISP LOCAL",
    "src": "https://turboxinternet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "TURBO X",
    "terr": "NOROESTE",
    "price": 89.9,
@@ -6969,7 +6549,7 @@
    "c": "PIEDADE",
    "op": "ISP LOCAL",
    "src": "https://site.ibiunet.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "IBIÚNET",
    "terr": "SUDESTE",
    "price": 49.9,
@@ -6977,12 +6557,8 @@
    "name": "700 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 129.9,
-    "speed": 700.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3538709",
@@ -7005,7 +6581,7 @@
    "c": "PIRASSUNUNGA",
    "op": "ISP LOCAL",
    "src": "https://hr-net.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "HR NET",
    "terr": "SUDESTE",
    "price": 109.0,
@@ -7013,12 +6589,8 @@
    "name": "400 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 109.9,
-    "speed": 400.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3540606",
@@ -7057,7 +6629,7 @@
    "c": "REGISTRO",
    "op": "ISP LOCAL",
    "src": "https://www.expandtelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "EXPAND",
    "terr": "SUDESTE",
    "price": 99.9,
@@ -7089,7 +6661,7 @@
    "c": "SAO JOSE DO RIO PARDO",
    "op": "ISP LOCAL",
    "src": "https://nuvyon.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "NUVYON",
    "terr": "SUDESTE",
    "price": 99.9,
@@ -7121,7 +6693,7 @@
    "c": "SAO JOSE DOS CAMPOS",
    "op": "ISP LOCAL",
    "src": "https://nipbr.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "NIPBR",
    "terr": "LITORAL",
    "price": 159.0,
@@ -7129,19 +6701,15 @@
    "name": "650 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 119.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   },
   {
    "ib": "3552403",
    "c": "SUMARE",
    "op": "ISP LOCAL",
    "src": "https://fibralider.net.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "FIBRA LÉDER",
    "terr": "CENTRAL",
    "price": 99.9,
@@ -7173,7 +6741,7 @@
    "c": "VALPARAISO",
    "op": "ISP LOCAL",
    "src": "https://fnettelecom.com.br/",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-18T21:31:30+00:00",
    "isp": "FNET",
    "terr": "NOROESTE",
    "price": 99.0,
@@ -7181,12 +6749,8 @@
    "name": "600 Mega",
    "gb": null,
    "benefits": "0",
-   "status": "atualizada",
-   "confidence": "alta",
-   "previous": {
-    "price": 99.99,
-    "speed": 600.0
-   }
+   "status": "mantida",
+   "confidence": "alta"
   }
  ]
 }
