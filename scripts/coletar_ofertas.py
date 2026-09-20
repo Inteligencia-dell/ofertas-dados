@@ -99,7 +99,7 @@ def baixar(url):
 
 
 def baixar_playwright(url):
-       """
+    """
     Fallback com Chromium.
 
     Utilizado quando a requisicao simples:
@@ -131,7 +131,10 @@ def baixar_playwright(url):
                     user_agent=UA,
                     locale="pt-BR",
                     timezone_id="America/Sao_Paulo",
-                    viewport={"width": 1366, "height": 900},
+                    viewport={
+                        "width": 1366,
+                        "height": 900,
+                    },
                     extra_http_headers={
                         "Accept-Language": "pt-BR,pt;q=0.9",
                         "Cache-Control": "no-cache",
@@ -162,18 +165,32 @@ def baixar_playwright(url):
                 page.evaluate(
                     """
                     async () => {
-                      const passo = Math.max(500, window.innerHeight);
-                      const limite = Math.min(
-                        document.body.scrollHeight,
-                        passo * 8
-                      );
+                        const passo = Math.max(
+                            500,
+                            window.innerHeight
+                        );
 
-                      for (let y = 0; y < limite; y += passo) {
-                        window.scrollTo(0, y);
-                        await new Promise(r => setTimeout(r, 300));
-                      }
+                        const limite = Math.min(
+                            document.body.scrollHeight,
+                            passo * 8
+                        );
 
-                      window.scrollTo(0, 0);
+                        for (
+                            let y = 0;
+                            y < limite;
+                            y += passo
+                        ) {
+                            window.scrollTo(0, y);
+
+                            await new Promise(
+                                resolve => setTimeout(
+                                    resolve,
+                                    300
+                                )
+                            );
+                        }
+
+                        window.scrollTo(0, 0);
                     }
                     """
                 )
@@ -181,16 +198,28 @@ def baixar_playwright(url):
                 page.wait_for_timeout(2000)
 
                 html = page.content()
-                status_http = resposta.status if resposta else None
+                status_http = (
+                    resposta.status
+                    if resposta
+                    else None
+                )
 
                 context.close()
                 browser.close()
+                browser = None
 
                 if not html or len(html) < 200:
-                    return None, "Chromium retornou pagina vazia"
+                    return (
+                        None,
+                        "Chromium retornou pagina vazia",
+                    )
 
                 if status_http and status_http >= 400:
-                    return None, "Chromium recebeu HTTP %s" % status_http
+                    return (
+                        None,
+                        "Chromium recebeu HTTP %s"
+                        % status_http,
+                    )
 
                 return html, None
 
@@ -201,10 +230,38 @@ def baixar_playwright(url):
             except Exception:
                 pass
 
-            return None, "Playwright %s: %s" % (
-                type(e).__name__,
-                str(e)[:120],
+            return (
+                None,
+                "Playwright %s: %s"
+                % (
+                    type(e).__name__,
+                    str(e)[:120],
+                ),
             )
+
+
+def limpar(html):
+    h = re.sub(
+        r"(?is)<(script|style|noscript)[^>]*>.*?</\1>",
+        " ",
+        html,
+    )
+    h = re.sub(
+        r"(?s)<!--.*?-->",
+        " ",
+        h,
+    )
+    h = re.sub(
+        r"(?s)<[^>]+>",
+        " ",
+        h,
+    )
+
+    return re.sub(
+        r"\s+",
+        " ",
+        unescape(h),
+    ).strip()
 def limpar(html):
     h = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", html)
     h = re.sub(r"(?s)<!--.*?-->", " ", h)
