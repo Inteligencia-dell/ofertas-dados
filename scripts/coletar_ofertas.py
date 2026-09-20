@@ -32,6 +32,7 @@ import time
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
+from threading import Semaphore
 from html import unescape
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -45,6 +46,10 @@ TIMEOUT = 25
 TENTATIVAS = 3
 PAUSA = 2.0
 PARALELO = 6
+PLAYWRIGHT_TIMEOUT = 60000
+PLAYWRIGHT_ESPERA = 5000
+PLAYWRIGHT_PARALELO = 2
+PLAYWRIGHT_SEMAFORO = Semaphore(PLAYWRIGHT_PARALELO)
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
@@ -93,6 +98,113 @@ def baixar(url):
     return None, ultimo
 
 
+def baixar_playwright(url):
+       """
+    Fallback com Chromium.
+
+    Utilizado quando a requisicao simples:
+    - expira;
+    - recebe bloqueio HTTP;
+    - retorna HTML sem preco e velocidade;
+    - depende de JavaScript para montar as ofertas.
+    """
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        return None, "Playwright nao instalado"
+
+    with PLAYWRIGHT_SEMAFORO:
+        browser = None
+
+        try:
+            with sync_playwright() as p:
+                browser = p.chromium.launch(
+                    headless=True,
+                    args=[
+                        "--disable-dev-shm-usage",
+                        "--disable-blink-features=AutomationControlled",
+                        "--no-sandbox",
+                    ],
+                )
+
+                context = browser.new_context(
+                    user_agent=UA,
+                    locale="pt-BR",
+                    timezone_id="America/Sao_Paulo",
+                    viewport={"width": 1366, "height": 900},
+                    extra_http_headers={
+                        "Accept-Language": "pt-BR,pt;q=0.9",
+                        "Cache-Control": "no-cache",
+                    },
+                )
+
+                page = context.new_page()
+                page.set_default_timeout(PLAYWRIGHT_TIMEOUT)
+
+                def reduzir_recursos(route):
+                    tipo = route.request.resource_type
+
+                    if tipo in ("image", "media", "font"):
+                        route.abort()
+                    else:
+                        route.continue_()
+
+                page.route("**/*", reduzir_recursos)
+
+                resposta = page.goto(
+                    url,
+                    wait_until="domcontentloaded",
+                    timeout=PLAYWRIGHT_TIMEOUT,
+                )
+
+                page.wait_for_timeout(PLAYWRIGHT_ESPERA)
+
+                page.evaluate(
+                    """
+                    async () => {
+                      const passo = Math.max(500, window.innerHeight);
+                      const limite = Math.min(
+                        document.body.scrollHeight,
+                        passo * 8
+                      );
+
+                      for (let y = 0; y < limite; y += passo) {
+                        window.scrollTo(0, y);
+                        await new Promise(r => setTimeout(r, 300));
+                      }
+
+                      window.scrollTo(0, 0);
+                    }
+                    """
+                )
+
+                page.wait_for_timeout(2000)
+
+                html = page.content()
+                status_http = resposta.status if resposta else None
+
+                context.close()
+                browser.close()
+
+                if not html or len(html) < 200:
+                    return None, "Chromium retornou pagina vazia"
+
+                if status_http and status_http >= 400:
+                    return None, "Chromium recebeu HTTP %s" % status_http
+
+                return html, None
+
+        except Exception as e:
+            try:
+                if browser:
+                    browser.close()
+            except Exception:
+                pass
+
+            return None, "Playwright %s: %s" % (
+                type(e).__name__,
+                str(e)[:120],
+            )
 def limpar(html):
     h = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", html)
     h = re.sub(r"(?s)<!--.*?-->", " ", h)
@@ -224,12 +336,68 @@ def validar_payload(p):
 # ---------------------------------------------------------- orquestracao
 
 def processar_fonte(fonte):
-    """Baixa uma FONTE_SITE e devolve os pares extraidos (1 requisicao/URL)."""
-    html, erro = baixar(fonte["url"])
-    pares = parear(limpar(html)) if html else []
-    return {"url": fonte["url"], "op": fonte["op"], "isp": fonte.get("isp"),
-            "erro": erro if erro else (None if pares else "pagina sem preco/velocidade extraiveis"),
-            "pares": pares}
+    """
+    Consulta uma FONTE_SITE.
+
+    Ordem:
+    1. Requisicao HTTP simples.
+    2. Se falhar ou nao extrair oferta, Chromium com Playwright.
+    3. Se ambos falharem, retorna vermelho e preserva o baseline.
+    """
+    url = fonte["url"]
+
+    # Primeira tentativa: requisicao HTTP simples.
+    html_http, erro_http = baixar(url)
+    pares_http = parear(limpar(html_http)) if html_http else []
+
+    if pares_http:
+        return {
+            "url": url,
+            "op": fonte["op"],
+            "isp": fonte.get("isp"),
+            "erro": None,
+            "pares": pares_http,
+            "metodo": "http",
+        }
+
+    # Segunda tentativa: Chromium renderizado.
+    html_browser, erro_browser = baixar_playwright(url)
+    pares_browser = (
+        parear(limpar(html_browser))
+        if html_browser
+        else []
+    )
+
+    if pares_browser:
+        return {
+            "url": url,
+            "op": fonte["op"],
+            "isp": fonte.get("isp"),
+            "erro": None,
+            "pares": pares_browser,
+            "metodo": "playwright",
+        }
+
+    motivos = []
+
+    if erro_http:
+        motivos.append("HTTP: %s" % erro_http)
+    else:
+        motivos.append("HTTP sem preco/velocidade extraiveis")
+
+    if erro_browser:
+        motivos.append("Chromium: %s" % erro_browser)
+    else:
+        motivos.append("Chromium sem preco/velocidade extraiveis")
+
+    return {
+        "url": url,
+        "op": fonte["op"],
+        "isp": fonte.get("isp"),
+        "erro": " | ".join(motivos),
+        "pares": [],
+        "metodo": "falha",
+    }
 
 
 def coletar(cfg, anteriores):
