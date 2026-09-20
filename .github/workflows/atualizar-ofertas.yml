@@ -1,62 +1,67 @@
 name: Atualizar ofertas
 
-# Coleta as ofertas nas URLs da coluna FONTE_SITE (COMPARATIVO_OFERTAS).
+# Coleta as ofertas nas URLs da coluna FONTE_SITE.
 # Horarios em UTC. Brasilia = UTC-3.
 on:
   schedule:
-    - cron: '25 9,15,21 * * *'   # 06:25, 12:25 e 18:25 em Brasilia
+    - cron: '25 9,15,21 * * *'
   workflow_dispatch:
-    inputs:
+    inpu*s:
       dry_run:
-        description: 'Executar sem gravar (apenas validar)'
+        descript*on: 'Executar sem gravar, apenas v*lidar'
         type: boolean
-        default: false
+     *  default: false
       operadora:
-        description: 'Limitar a uma operadora (vazio = todas)'
-        type: string
-        default: ''
+*       description: 'Limitar a uma*operadora. Vazio consulta todas'
+ *      type: string
+        default* ''
 
 permissions:
-  contents: write
+  contents: writ*
 
 concurrency:
-  group: atualizar-ofertas
-  cancel-in-progress: false
-
+  group: atualizar-*fertas
+  cancel-in-progress: false*
 jobs:
   coletar:
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
+    runs-on: ubu*tu-24.04
+    timeout-minutes: 60
 
-    steps:
-      - name: Obter repositorio
-        uses: actions/checkout@v4
+*   steps:
+      - name: Obter repo*itorio
+        uses: actions/check*ut@v6
 
-      - name: Preparar Python
-        uses: actions/setup-python@v5
+      - name: Preparar Pyth*n
+        uses: actions/setup-pyth*n@v6
         with:
-          python-version: '3.12'
+          pytho*-version: '3.13'
 
-      - name: Executar coletor
+      - name: In*talar Playwright e Chromium
+      * run: |
+          python -m pip in*tall --upgrade pip
+          pip i*stall playwright
+          python *m playwright install --with-deps c*romium
+
+      - name: Executar col*tor
         run: |
-          python scripts/coletar_ofertas.py \
-            --ambiente producao \
-            ${{ inputs.dry_run && '--dry-run' || '' }} \
-            ${{ inputs.operadora && format('--operadora {0}', inputs.operadora) || '' }}
-
+          pytho* scripts/coletar_ofertas.py \
+    *       --ambiente producao \
+     *      ${{ inputs.dry_run && '--dry*run' || '' }} \
+            ${{ in*uts.operadora && format('--operado*a {0}', inputs.operadora) || '' }}*
       - name: Resumo da execucao
-        if: always()
-        run: python scripts/resumo.py >> "$GITHUB_STEP_SUMMARY"
+*       if: always()
+        run: p*thon scripts/resumo.py >> "$GITHUB*STEP_SUMMARY"
 
-      - name: Publicar alteracoes
-        if: ${{ !inputs.dry_run }}
+      - name: Publi*ar alteracoes
+        if: ${{ !inp*ts.dry_run }}
         run: |
-          git config user.name  'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dados/ofertas.json dados/status/index.json
-          if git diff --cached --quiet; then
-            echo "Nenhuma alteracao de oferta nesta execucao."
-            exit 0
-          fi
-          git commit -m "Atualizacao automatica via FONTE_SITE — $(date -u '+%Y-%m-%d %H:%M UTC')"
+     *    git config user.name 'github-a*tions[bot]'
+          git config u*er.email 'github-actions[bot]@user*.noreply.github.com'
+          git*add dados/ofertas.json dados/statu*/index.json
+
+          if git diff*--cached --quiet; then
+           *echo "Nenhuma alteracao de oferta *esta execucao."
+            exit 0*          fi
+
+          git commit*-m "Atualizacao automatica via FON*E_SITE - $(date -u '+%Y-%m-%d %H:%* UTC')"
           git push
