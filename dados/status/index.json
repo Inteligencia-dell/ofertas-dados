@@ -1,16 +1,16 @@
 {
- "overall": "red",
- "updated": "2026-09-19T21:30:53+00:00",
+ "overall": "yellow",
+ "updated": "2026-09-20T09:32:08+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-09-19T21:30:53+00:00"
+  "reference": "2026-09-20T09:32:08+00:00"
  },
  "counts": {
-  "green": 0,
-  "yellow": 153,
-  "red": 407
+  "green": 1,
+  "yellow": 151,
+  "red": 408
  },
- "alertCount": 407,
+ "alertCount": 408,
  "alerts": [
   {
    "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
