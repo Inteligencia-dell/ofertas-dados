@@ -1,6 +1,6 @@
 name: Atualizar ofertas
 
-# Coleta as ofertas nas URLs da coluna FONTE_SITE.
+# Coleta ofertas das URLs cadastradas na coluna FONTE_SITE.
 # Horarios em UTC. Brasilia = UTC-3.
 on:
   schedule:
@@ -32,12 +32,23 @@ jobs:
 
     steps:
       - name: Obter repositorio
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Preparar Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.12'
+
+      - name: Validar estrutura do repositorio
+        run: |
+          echo "Arquivos encontrados:"
+          find . -maxdepth 4 -type f | sort
+
+          test -f scripts/coletar_ofertas.py
+          test -f scripts/resumo.py
+          test -f fontes.json
+          test -f dados/ofertas.json
+          test -f dados/status/index.json
 
       - name: Instalar Playwright e Chromium
         run: |
@@ -45,16 +56,21 @@ jobs:
           pip install playwright
           python -m playwright install --with-deps chromium
 
+      - name: Validar sintaxe Python
+        run: |
+          python -m py_compile scripts/coletar_ofertas.py
+          python -m py_compile scripts/resumo.py
+
       - name: Executar coletor
         run: |
-          python Roteiros/coletar_ofertas.py \
+          python scripts/coletar_ofertas.py \
             --ambiente producao \
             ${{ inputs.dry_run && '--dry-run' || '' }} \
             ${{ inputs.operadora && format('--operadora {0}', inputs.operadora) || '' }}
 
       - name: Resumo da execucao
         if: always()
-        run: python Roteiros/resumo.py >> "$GITHUB_STEP_SUMMARY"
+        run: python scripts/resumo.py >> "$GITHUB_STEP_SUMMARY"
 
       - name: Publicar alteracoes
         if: ${{ !inputs.dry_run }}
