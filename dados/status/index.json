@@ -1,93 +1,93 @@
 {
  "overall": "red",
- "updated": "2026-09-20T15:34:09+00:00",
+ "updated": "2026-09-20T16:27:08+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-09-20T15:34:09+00:00"
+  "reference": "2026-09-20T16:27:08+00:00"
  },
  "counts": {
   "green": 0,
-  "yellow": 148,
-  "red": 412
+  "yellow": 0,
+  "red": 139
  },
- "alertCount": 412,
+ "alertCount": 139,
  "alerts": [
   {
-   "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · AGUDOS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · AGUDOS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · ALVARES MACHADO: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · ALVARES MACHADO: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · AMERICANA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · AMERICANA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · AMPARO: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · AMPARO: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · ANDRADINA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · ANDRADINA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · APARECIDA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · APARECIDA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · ARACATUBA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARACATUBA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · ARARAQUARA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARARAQUARA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · ARARAS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARARAS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · AVARE: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · AVARE: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BADY BASSITT: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BADY BASSITT: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BARRETOS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BARRETOS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BARRINHA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BARRINHA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BATATAIS: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BATATAIS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BAURU: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BAURU: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BEBEDOURO: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BEBEDOURO: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BERTIOGA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BERTIOGA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BIRIGUI: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BIRIGUI: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BOITUVA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BOITUVA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · BOTUCATU: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · BOTUCATU: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · CACAPAVA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · CACAPAVA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   },
   {
-   "msg": "Claro · CACHOEIRA PAULISTA: FONTE_SITE nao validou a oferta (pagina sem preco/velocidade extraiveis)"
+   "msg": "Claro · CACHOEIRA PAULISTA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
   }
  ],
  "environment": "producao",
- "coverage": "442 de 560 pontos cidade-operadora"
+ "coverage": "138 de 139 pontos cidade-operadora"
 }
