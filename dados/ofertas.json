@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-20T16:27:08+00:00",
+  "updated": "2026-09-20T21:49:26+00:00",
   "environment": "producao",
   "coverage": "138 de 139 pontos cidade-operadora",
   "generator": "coletar_ofertas.py",
@@ -12,2070 +12,2622 @@
    "c": "ADAMANTINA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3500709",
    "c": "AGUDOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3501301",
    "c": "ALVARES MACHADO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3501608",
    "c": "AMERICANA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3501707",
    "c": "AMERICO BRASILIENSE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 99.9,
-   "speed": 1000.0,
-   "name": "1GB+100GB = R$99,90",
+   "price": 179.0,
+   "speed": 1000,
+   "name": "1000 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "media",
+   "previous": {
+    "price": 99.9,
+    "speed": 1000.0
+   }
   },
   {
    "ib": "3501905",
    "c": "AMPARO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3502101",
    "c": "ANDRADINA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3502507",
    "c": "APARECIDA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3502804",
    "c": "ARACATUBA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3503208",
    "c": "ARARAQUARA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 99.9,
-   "speed": 1000.0,
-   "name": "1GB+100GB = R$99,90",
+   "price": 179.0,
+   "speed": 1000,
+   "name": "1000 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "media",
+   "previous": {
+    "price": 99.9,
+    "speed": 1000.0
+   }
   },
   {
    "ib": "3503307",
    "c": "ARARAS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3503802",
    "c": "ARTUR NOGUEIRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3504503",
    "c": "AVARE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3504602",
    "c": "BADY BASSITT",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3505500",
    "c": "BARRETOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3505609",
    "c": "BARRINHA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3505906",
    "c": "BATATAIS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3506003",
    "c": "BAURU",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 99.9,
-   "speed": 1000.0,
-   "name": "1GB+100GB = R$99,90",
+   "price": 179.0,
+   "speed": 1000,
+   "name": "1000 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "media",
+   "previous": {
+    "price": 99.9,
+    "speed": 1000.0
+   }
   },
   {
    "ib": "3506102",
    "c": "BEBEDOURO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3506359",
    "c": "BERTIOGA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3506508",
    "c": "BIRIGUI",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3507001",
    "c": "BOITUVA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3507506",
    "c": "BOTUCATU",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3508504",
    "c": "CACAPAVA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3508603",
    "c": "CACHOEIRA PAULISTA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3509502",
    "c": "CAMPINAS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3509700",
    "c": "CAMPOS DO JORDAO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3510401",
    "c": "CAPIVARI",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3510500",
    "c": "CARAGUATATUBA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3510807",
    "c": "CASA BRANCA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3511102",
    "c": "CATANDUVA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3511508",
    "c": "CERQUILHO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3512407",
    "c": "CORDEIROPOLIS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3512803",
    "c": "COSMOPOLIS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3513108",
    "c": "CRAVINHOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3513405",
    "c": "CRUZEIRO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3513504",
    "c": "CUBATAO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3513702",
    "c": "DESCALVADO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3514403",
    "c": "DRACENA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3514908",
    "c": "ELIAS FAUSTO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3515186",
    "c": "ESPIRITO SANTO DO PINHAL",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3515509",
    "c": "FERNANDOPOLIS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3516200",
    "c": "FRANCA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3516705",
    "c": "GARCA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3517406",
    "c": "GUAIRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3517505",
    "c": "GUAPIACU",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3518206",
    "c": "GUARARAPES",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3518404",
    "c": "GUARATINGUETA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3518701",
    "c": "GUARUJA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3519071",
    "c": "HORTOLANDIA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3519303",
    "c": "IBATE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3519709",
    "c": "IBIUNA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3520509",
    "c": "INDAIATUBA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3521002",
    "c": "IPERO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3522109",
    "c": "ITANHAEM",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3522307",
    "c": "ITAPETININGA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3522406",
    "c": "ITAPEVA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3522604",
    "c": "ITAPIRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3524105",
    "c": "ITUVERAVA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3524303",
    "c": "JABOTICABAL",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3524402",
    "c": "JACAREI",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3524709",
    "c": "JAGUARIUNA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3524808",
    "c": "JALES",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3525102",
    "c": "JARDINOPOLIS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3525300",
    "c": "JAU",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 99.9,
-   "speed": 1000.0,
-   "name": "1GB+100GB = R$99,90",
+   "price": 179.0,
+   "speed": 1000,
+   "name": "1000 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "media",
+   "previous": {
+    "price": 99.9,
+    "speed": 1000.0
+   }
   },
   {
    "ib": "3525706",
    "c": "JOSE BONIFACIO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3526407",
    "c": "LARANJAL PAULISTA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3526704",
    "c": "LEME",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3526803",
    "c": "LENCOIS PAULISTA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3526902",
    "c": "LIMEIRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3527108",
    "c": "LINS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3527207",
    "c": "LORENA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3527306",
    "c": "LOUVEIRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3529005",
    "c": "MARILIA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3529302",
    "c": "MATAO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3530102",
    "c": "MIRANDOPOLIS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3530300",
    "c": "MIRASSOL",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3530508",
    "c": "MOCOCA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3530706",
    "c": "MOGI GUACU",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3530805",
    "c": "MOGI MIRIM",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3531100",
    "c": "MONGAGUA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3531308",
    "c": "MONTE ALTO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3531803",
    "c": "MONTE MOR",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3533403",
    "c": "NOVA ODESSA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3533908",
    "c": "OLIMPIA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3534302",
    "c": "ORLANDIA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3534708",
    "c": "OURINHOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3536505",
    "c": "PAULINIA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3537107",
    "c": "PEDREIRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3537305",
    "c": "PENAPOLIS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3537602",
    "c": "PERUIBE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3537800",
    "c": "PIEDADE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3538006",
    "c": "PINDAMONHANGABA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3538709",
    "c": "PIRACICABA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3539301",
    "c": "PIRASSUNUNGA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3540200",
    "c": "PONTAL",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3540606",
    "c": "PORTO FELIZ",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3540705",
    "c": "PORTO FERREIRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3540754",
    "c": "POTIM",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3540804",
    "c": "POTIRENDABA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3541000",
    "c": "PRAIA GRANDE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3541208",
    "c": "PRESIDENTE BERNARDES",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3541406",
    "c": "PRESIDENTE PRUDENTE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3541604",
    "c": "PROMISSAO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3542107",
    "c": "RAFARD",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3542602",
    "c": "REGISTRO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3543402",
    "c": "RIBEIRAO PRETO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3543907",
    "c": "RIO CLARO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3545803",
    "c": "SANTA BARBARA D OESTE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3546306",
    "c": "SANTA CRUZ DAS PALMEIRAS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3546405",
    "c": "SANTA CRUZ DO RIO PARDO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3546702",
    "c": "SANTA GERTRUDES",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3547601",
    "c": "SANTA ROSA DE VITERBO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3548500",
    "c": "SANTOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3548906",
    "c": "SAO CARLOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3549102",
    "c": "SAO JOAO DA BOA VISTA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3549409",
    "c": "SAO JOAQUIM DA BARRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3549706",
    "c": "SAO JOSE DO RIO PARDO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3549805",
    "c": "SAO JOSE DO RIO PRETO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 99.9,
-   "speed": 1000.0,
-   "name": "1GB+100GB = R$99,90",
+   "price": 179.0,
+   "speed": 1000,
+   "name": "1000 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "media",
+   "previous": {
+    "price": 99.9,
+    "speed": 1000.0
+   }
   },
   {
    "ib": "3549904",
    "c": "SAO JOSE DOS CAMPOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 99.9,
-   "speed": 1000.0,
-   "name": "1GB+100GB = R$99,90",
+   "price": 179.0,
+   "speed": 1000,
+   "name": "1000 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "media",
+   "previous": {
+    "price": 99.9,
+    "speed": 1000.0
+   }
   },
   {
    "ib": "3550704",
    "c": "SAO SEBASTIAO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3551009",
    "c": "SAO VICENTE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3551603",
    "c": "SERRA NEGRA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3551504",
    "c": "SERRANA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3551702",
    "c": "SERTAOZINHO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3552205",
    "c": "SOROCABA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3552403",
    "c": "SUMARE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3553302",
    "c": "TAMBAU",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3554003",
    "c": "TATUI",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3554102",
    "c": "TAUBATE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3554508",
    "c": "TIETE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3554805",
    "c": "TREMEMBE",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "SUDESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3555406",
    "c": "UBATUBA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "LITORAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$119,90 por 3M, após R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3556206",
    "c": "VALINHOS",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3556305",
    "c": "VALPARAISO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3556701",
    "c": "VINHEDO",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "CENTRAL",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3557006",
    "c": "VOTORANTIM",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "OESTE",
-   "price": 159.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$159,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 159.9,
+    "speed": 600.0
+   }
   },
   {
    "ib": "3557105",
    "c": "VOTUPORANGA",
    "op": "Claro",
    "src": "https://www.claro.com.br/internet",
-   "collectedAt": "2026-09-18T21:27:26+00:00",
+   "collectedAt": "2026-09-20T21:49:26+00:00",
    "terr": "NOROESTE",
-   "price": 139.9,
-   "speed": 600.0,
-   "name": "600M+100GB=R$109,90 por 6M, após R$139,90",
+   "price": 99.0,
+   "speed": 600,
+   "name": "600 Mega",
    "gb": 100.0,
    "benefits": "GLOBOPLAY",
-   "status": "a validar",
-   "confidence": "baixa"
+   "status": "atualizada",
+   "confidence": "alta",
+   "previous": {
+    "price": 139.9,
+    "speed": 600.0
+   }
   }
  ]
 }

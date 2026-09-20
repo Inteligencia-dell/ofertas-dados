@@ -1,91 +1,19 @@
 {
- "overall": "red",
- "updated": "2026-09-20T16:27:08+00:00",
+ "overall": "yellow",
+ "updated": "2026-09-20T21:49:26+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-09-20T16:27:08+00:00"
+  "reference": "2026-09-20T21:49:26+00:00"
  },
  "counts": {
-  "green": 0,
+  "green": 138,
   "yellow": 0,
-  "red": 139
+  "red": 1
  },
- "alertCount": 139,
+ "alertCount": 1,
  "alerts": [
   {
-   "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · AGUDOS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · ALVARES MACHADO: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · AMERICANA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · AMPARO: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · ANDRADINA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · APARECIDA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · ARACATUBA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · ARARAQUARA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · ARARAS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · AVARE: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BADY BASSITT: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BARRETOS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BARRINHA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BATATAIS: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BAURU: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BEBEDOURO: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BERTIOGA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BIRIGUI: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BOITUVA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · BOTUCATU: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · CACAPAVA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
-  },
-  {
-   "msg": "Claro · CACHOEIRA PAULISTA: FONTE_SITE nao validou a oferta (TimeoutError: The read operation timed out)"
+   "msg": "Claro · TRES LAGOAS: sem FONTE_SITE cadastrada na COMPARATIVO_OFERTAS"
   }
  ],
  "environment": "producao",
