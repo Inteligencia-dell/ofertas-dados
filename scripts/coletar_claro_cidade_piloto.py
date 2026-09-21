@@ -143,7 +143,21 @@ def converter_preco(valor_inteiro, valor_centavos):
 
 def extrair_ofertas(page):
     """Extrai somente cards Fibra residenciais, pareando dentro do mesmo card."""
-    cards = page.locator("div.mdn-Card.mdn-Card--default")
+       secao_residencial = page.locator(
+        "section.cms-Card360.has-title"
+    ).filter(
+        has_text=re.compile(
+            r"As melhores ofertas de conectividade "
+            r"para sua casa e seu celular",
+            re.I,
+        )
+    ).first
+
+    cards = secao_residencial.locator(
+        "div.mdn-Card.mdn-Card--default"
+    )
+    if secao_residencial.count() == 0:
+        return []
     ofertas = []
     vistos = set()
 
