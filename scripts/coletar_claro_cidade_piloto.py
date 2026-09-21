@@ -19,7 +19,7 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 RAIZ = Path(__file__).resolve().parent.parent
 SAIDA = RAIZ / "dados" / "piloto-claro-cidade.json"
 EVIDENCIAS = RAIZ / "evidencias-claro-cidade"
-URL = "https://www.claro.com.br/internet"
+URL = "https://www.claro.com.br/"
 CIDADE = "CAMPINAS"
 UF = "SP"
 TIMEOUT = 60000
