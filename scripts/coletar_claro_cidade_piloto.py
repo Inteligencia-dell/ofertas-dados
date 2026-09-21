@@ -111,96 +111,55 @@ def localizar_campo_cidade(page):
 
     return None
 def selecionar_cidade(page):
-    abrir_seletor(page)
-    page.wait_for_timeout(2000)
+    page.wait_for_timeout(3000)
 
-    campo = localizar_campo_cidade(page)
-
-    if campo is None:
-        return False, "Campo editavel de cidade nao localizado"
-
-    try:
-        campo.click()
-        campo.fill("Campinas")
-    except Exception:
-        try:
-            campo.click()
-            campo.press("Control+A")
-            campo.press_sequentially(
-                "Campinas",
-                delay=120,
-            )
-        except Exception as erro:
-            return (
-                False,
-                "Falha ao preencher campo de cidade: %s"
-                % str(erro)[:150],
-            )
-
-    page.wait_for_timeout(3500)
-
-    opcoes = [
-        page.get_by_text(
-            re.compile(
-                r"Campinas\s*/\s*SP",
+    # Campinas aparece diretamente em "Cidades mais acessadas".
+    opcoes_diretas = [
+        page.locator(
+            "button[data-gtm-event-label="
+            "'lista-cidades-padrao-campinas-sp']"
+        ),
+        page.get_by_role(
+            "button",
+            name=re.compile(
+                r"^\s*Campinas\s*/\s*SP\s*$",
                 re.I,
             ),
-            exact=False,
         ),
         page.get_by_text(
             re.compile(
-                r"Campinas\s*\(\s*SP\s*\)",
+                r"^\s*Campinas\s*/\s*SP\s*$",
                 re.I,
             ),
-            exact=False,
-        ),
-        page.get_by_role(
-            "option",
-            name=re.compile(
-                r"Campinas",
-                re.I,
-            ),
-        ),
-        page.get_by_role(
-            "link",
-            name=re.compile(
-                r"Campinas",
-                re.I,
-            ),
-        ),
-        page.locator(
-            "[role='option']"
-        ).filter(
-            has_text=re.compile(
-                r"Campinas",
-                re.I,
-            ),
-        ),
-        page.locator(
-            "li"
-        ).filter(
-            has_text=re.compile(
-                r"Campinas",
-                re.I,
-            ),
+            exact=True,
         ),
     ]
 
-    opcao = primeiro_visivel(opcoes)
+    opcao = primeiro_visivel(opcoes_diretas)
+
+    # Se o modal não estiver aberto, tenta abrir o seletor.
+    if opcao is None:
+        abrir_seletor(page)
+        page.wait_for_timeout(2500)
+        opcao = primeiro_visivel(opcoes_diretas)
 
     if opcao is None:
-        return False, "Opcao Campinas/SP nao localizada"
+        return (
+            False,
+            "Botao direto Campinas/SP nao localizado",
+        )
 
     try:
         opcao.click()
     except Exception as erro:
         return (
             False,
-            "Falha ao selecionar Campinas/SP: %s"
+            "Falha ao clicar em Campinas/SP: %s"
             % str(erro)[:150],
         )
 
-    page.wait_for_timeout(6000)
+    # Aguarda o portal aplicar a cidade e atualizar as ofertas.
+    page.wait_for_timeout(8000)
 
     confirmar = primeiro_visivel([
         page.get_by_role(
@@ -215,6 +174,7 @@ def selecionar_cidade(page):
                 r"^confirmar$",
                 re.I,
             ),
+            exact=True,
         ),
     ])
 
@@ -226,7 +186,6 @@ def selecionar_cidade(page):
             pass
 
     return True, None
-
 def local_confirmado(texto):
     t = norm(texto)
     return "CAMPINAS" in t and bool(re.search(r"(^|[\s/\-(])SP([\s/\-)]|$)", t))
