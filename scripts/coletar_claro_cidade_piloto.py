@@ -381,28 +381,51 @@ def main():
             page.wait_for_timeout(4000)
             resultado["httpStatus"] = response.status if response else None
 
-            if response and response.status >= 400:
-                resultado["reason"] = "HTTP %s recebido antes da selecao da cidade" % response.status
+                     if response and response.status >= 400:
+                resultado["reason"] = (
+                    "HTTP %s recebido antes da selecao da cidade"
+                    % response.status
+                )
+
             else:
                 aceitar_cookies(page)
+
                 ok, erro = selecionar_cidade(page)
-                texto = page.locator("body").inner_text()
-                resultado["locationConfirmed"] = ok and local_confirmado(texto)
-               resultado["offersFound"] = (
-    extrair_ofertas(page)
-    if resultado["locationConfirmed"]
-    else []
-)
+
+                texto = page.locator(
+                    "body"
+                ).inner_text()
+
+                resultado["locationConfirmed"] = (
+                    ok
+                    and local_confirmado(texto)
+                )
+
+                resultado["offersFound"] = (
+                    extrair_ofertas(page)
+                    if resultado["locationConfirmed"]
+                    else []
+                )
+
                 if not ok:
                     resultado["reason"] = erro
-                elif not resultado["locationConfirmed"]:
-                    resultado["reason"] = "Campinas/SP nao confirmada no conteudo retornado"
-                elif not resultado["offersFound"]:
-                    resultado["reason"] = "Cidade confirmada, mas nenhuma oferta pareada"
-                else:
-                    resultado["status"] = "validada_piloto"
 
-            html_file.write_text(page.content(), encoding="utf-8")
+                elif not resultado["locationConfirmed"]:
+                    resultado["reason"] = (
+                        "Campinas/SP nao confirmada "
+                        "no conteudo retornado"
+                    )
+
+                elif not resultado["offersFound"]:
+                    resultado["reason"] = (
+                        "Cidade confirmada, mas "
+                        "nenhuma oferta pareada"
+                    )
+
+                else:
+                    resultado["status"] = (
+                        "validada_piloto"
+                    )
             page.screenshot(path=str(screenshot), full_page=True)
             context.close()
             browser.close()
