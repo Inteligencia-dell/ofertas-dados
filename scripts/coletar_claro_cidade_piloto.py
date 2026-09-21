@@ -191,37 +191,167 @@ def local_confirmado(texto):
     return "CAMPINAS" in t and bool(re.search(r"(^|[\s/\-(])SP([\s/\-)]|$)", t))
 
 
-def extrair_ofertas(texto):
-    precos = []
-    for m in re.finditer(r"R\$\s*([0-9]{1,3}(?:\.[0-9]{3})*|[0-9]+)(?:[,.]([0-9]{2}))?", texto):
-        try:
-            valor = float(m.group(1).replace(".", "") + "." + (m.group(2) or "00"))
-        except ValueError:
-            continue
-        if 19 <= valor <= 2500:
-            precos.append((valor, m.start()))
+def converter_preco(valor_inteiro, valor_centavos):
+    try:
+        inteiro = re.sub(
+            r"\D",
+            "",
+            str(valor_inteiro or ""),
+        )
 
-    velocidades = []
-    for m in re.finditer(r"([0-9]{2,5})\s*(?:MEGA|MB|MBPS)\b", texto, re.I):
-        v = int(m.group(1))
-        if 50 <= v <= 10000:
-            velocidades.append((v, m.start()))
-    for m in re.finditer(r"([0-9](?:[,.][0-9])?)\s*(?:GIGA|GBPS)\b", texto, re.I):
-        v = int(round(float(m.group(1).replace(",", ".")) * 1000))
-        if 500 <= v <= 10000:
-            velocidades.append((v, m.start()))
+        centavos = re.sub(
+            r"\D",
+            "",
+            str(valor_centavos or ""),
+        )
 
-    pares = []
+        if not inteiro:
+            return None
+
+        centavos = (centavos + "00")[:2]
+
+        return round(
+            float("%s.%s" % (inteiro, centavos)),
+            2,
+        )
+
+    except Exception:
+        return None
+
+
+def extrair_ofertas(page):
+    """
+    Extrai somente cards residenciais identificados como Fibra.
+
+    Preco e velocidade sao obtidos dentro do mesmo card.
+    Cards de movel, TV, aparelhos, empresas e Claro Multi
+    sao ignorados.
+    """
+    cards = page.locator(
+        "div.mdn-Card.mdn-Card--default"
+    )
+
+    ofertas = []
     vistos = set()
-    for preco, pp in precos:
-        if not velocidades:
-            break
-        vel, vp = min(velocidades, key=lambda x: abs(x[1] - pp))
-        if abs(vp - pp) <= 550 and (vel, preco) not in vistos:
-            vistos.add((vel, preco))
-            pares.append({"speed": vel, "price": round(preco, 2), "distance": abs(vp - pp)})
-    return sorted(pares, key=lambda x: (x["speed"], x["price"]))
 
+    for indice in range(cards.count()):
+        card = cards.nth(indice)
+
+        try:
+            texto = re.sub(
+                r"\s+",
+                " ",
+                card.inner_text(),
+            ).strip()
+        except Exception:
+            continue
+
+        # O card residencial simples começa com "Fibra".
+        if not re.match(
+            r"^Fibra\b",
+            texto,
+            re.I,
+        ):
+            continue
+
+        velocidade = re.search(
+            r"(\d{2,5})\s*Mega\b",
+            texto,
+            re.I,
+        )
+
+        if not velocidade:
+            continue
+
+        preco_inteiro = card.locator(
+            ".mdn-Price-main-price"
+        )
+
+        preco_centavos = card.locator(
+            ".mdn-Price-main-cents"
+        )
+
+        if preco_inteiro.count() == 0:
+            continue
+
+        try:
+            inteiro = preco_inteiro.first.inner_text()
+
+            centavos = (
+                preco_centavos.first.inner_text()
+                if preco_centavos.count() > 0
+                else "00"
+            )
+        except Exception:
+            continue
+
+        preco = converter_preco(
+            inteiro,
+            centavos,
+        )
+
+        if preco is None:
+            continue
+
+        speed = int(
+            velocidade.group(1)
+        )
+
+        chave = (
+            speed,
+            preco,
+        )
+
+        if chave in vistos:
+            continue
+
+        vistos.add(chave)
+
+        beneficios = []
+
+        mapa_beneficios = [
+            (
+                "WI-FI GRATIS",
+                "Wi-Fi grátis",
+            ),
+            (
+                "INSTALACAO RAPIDA",
+                "Instalação rápida",
+            ),
+            (
+                "STREAMING INCLUSO",
+                "Streaming incluso",
+            ),
+            (
+                "APPS INCLUSOS",
+                "Apps inclusos",
+            ),
+        ]
+
+        texto_normalizado = norm(texto)
+
+        for termo, descricao in mapa_beneficios:
+            if termo in texto_normalizado:
+                beneficios.append(
+                    descricao
+                )
+
+        ofertas.append({
+            "name": "Fibra %d Mega" % speed,
+            "speed": speed,
+            "price": preco,
+            "category": "internet_residencial",
+            "benefits": beneficios,
+            "cardText": texto[:500],
+        })
+
+    return sorted(
+        ofertas,
+        key=lambda oferta: (
+            oferta["speed"],
+            oferta["price"],
+        ),
+    )
 
 def main():
     SAIDA.parent.mkdir(parents=True, exist_ok=True)
@@ -258,7 +388,11 @@ def main():
                 ok, erro = selecionar_cidade(page)
                 texto = page.locator("body").inner_text()
                 resultado["locationConfirmed"] = ok and local_confirmado(texto)
-                resultado["offersFound"] = extrair_ofertas(texto) if resultado["locationConfirmed"] else []
+               resultado["offersFound"] = (
+    extrair_ofertas(page)
+    if resultado["locationConfirmed"]
+    else []
+)
                 if not ok:
                     resultado["reason"] = erro
                 elif not resultado["locationConfirmed"]:
