@@ -1,21 +1,93 @@
 {
  "overall": "yellow",
- "updated": "2026-09-20T21:49:26+00:00",
+ "updated": "2026-09-21T09:35:57+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-09-20T21:49:26+00:00"
+  "reference": "2026-09-21T09:35:57+00:00"
  },
  "counts": {
-  "green": 138,
-  "yellow": 0,
-  "red": 1
+  "green": 249,
+  "yellow": 186,
+  "red": 125
  },
- "alertCount": 1,
+ "alertCount": 125,
  "alerts": [
   {
-   "msg": "Claro · TRES LAGOAS: sem FONTE_SITE cadastrada na COMPARATIVO_OFERTAS"
+   "msg": "Alares · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · ARARAS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · CASA BRANCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · ELIAS FAUSTO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · ESPIRITO SANTO DO PINHAL: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · IBIUNA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · INDAIATUBA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · ITAPETININGA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · LIMEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · LOUVEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · MARILIA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · MOCOCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · MOGI GUACU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · MOGI MIRIM: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · MONTE MOR: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · OURINHOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · PIEDADE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · PRESIDENTE PRUDENTE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · REGISTRO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · RIO CLARO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · SANTA CRUZ DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · SAO JOAO DA BOA VISTA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · SAO JOSE DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · SOROCABA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+  },
+  {
+   "msg": "Alares · TAMBAU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   }
  ],
  "environment": "producao",
- "coverage": "138 de 139 pontos cidade-operadora"
+ "coverage": "539 de 560 pontos cidade-operadora"
 }
