@@ -75,45 +75,157 @@ def abrir_seletor(page):
     return False
 
 
+
+def localizar_campo_cidade(page):
+    seletores = [
+        "input[placeholder*='cidade' i]",
+        "input[aria-label*='cidade' i]",
+        "input[name*='cidade' i]",
+        "input[id*='cidade' i]",
+        "input[type='search']",
+        "input[type='text']",
+        "textarea[placeholder*='cidade' i]",
+        "[contenteditable='true']",
+    ]
+
+    for seletor in seletores:
+        candidatos = page.locator(seletor)
+
+        try:
+            quantidade = candidatos.count()
+        except Exception:
+            continue
+
+        for indice in range(quantidade):
+            candidato = candidatos.nth(indice)
+
+            try:
+                if (
+                    candidato.is_visible()
+                    and candidato.is_enabled()
+                    and candidato.is_editable()
+                ):
+                    return candidato
+            except Exception:
+                continue
+
+    return None
 def selecionar_cidade(page):
     abrir_seletor(page)
-    campo = primeiro_visivel([
-        page.get_by_placeholder(re.compile(r"encontre sua cidade|nome da cidade|busque sua cidade|cidade", re.I)),
-        page.get_by_label(re.compile(r"cidade|localizacao", re.I)),
-        page.get_by_role("textbox", name=re.compile(r"cidade|localizacao", re.I)),
-        page.locator("input[name*='cidade' i]"),
-        page.locator("input[id*='cidade' i]"),
-    ])
+    page.wait_for_timeout(2000)
+
+    campo = localizar_campo_cidade(page)
+
     if campo is None:
-        return False, "Campo de cidade nao localizado"
+        return False, "Campo editavel de cidade nao localizado"
 
-    campo.fill("Campinas")
-    page.wait_for_timeout(2500)
+    try:
+        campo.click()
+        campo.fill("Campinas")
+    except Exception:
+        try:
+            campo.click()
+            campo.press("Control+A")
+            campo.press_sequentially(
+                "Campinas",
+                delay=120,
+            )
+        except Exception as erro:
+            return (
+                False,
+                "Falha ao preencher campo de cidade: %s"
+                % str(erro)[:150],
+            )
 
-    opcao = primeiro_visivel([
-        page.get_by_text(re.compile(r"Campinas\s*/\s*SP", re.I), exact=False),
-        page.get_by_text(re.compile(r"Campinas\s*\(SP\)", re.I), exact=False),
-        page.get_by_role("option", name=re.compile(r"Campinas", re.I)),
-        page.get_by_role("link", name=re.compile(r"Campinas", re.I)),
-    ])
+    page.wait_for_timeout(3500)
+
+    opcoes = [
+        page.get_by_text(
+            re.compile(
+                r"Campinas\s*/\s*SP",
+                re.I,
+            ),
+            exact=False,
+        ),
+        page.get_by_text(
+            re.compile(
+                r"Campinas\s*\(\s*SP\s*\)",
+                re.I,
+            ),
+            exact=False,
+        ),
+        page.get_by_role(
+            "option",
+            name=re.compile(
+                r"Campinas",
+                re.I,
+            ),
+        ),
+        page.get_by_role(
+            "link",
+            name=re.compile(
+                r"Campinas",
+                re.I,
+            ),
+        ),
+        page.locator(
+            "[role='option']"
+        ).filter(
+            has_text=re.compile(
+                r"Campinas",
+                re.I,
+            ),
+        ),
+        page.locator(
+            "li"
+        ).filter(
+            has_text=re.compile(
+                r"Campinas",
+                re.I,
+            ),
+        ),
+    ]
+
+    opcao = primeiro_visivel(opcoes)
+
     if opcao is None:
         return False, "Opcao Campinas/SP nao localizada"
 
-    opcao.click()
+    try:
+        opcao.click()
+    except Exception as erro:
+        return (
+            False,
+            "Falha ao selecionar Campinas/SP: %s"
+            % str(erro)[:150],
+        )
+
     page.wait_for_timeout(6000)
 
     confirmar = primeiro_visivel([
-        page.get_by_role("button", name=re.compile(r"confirmar|continuar", re.I)),
-        page.get_by_text(re.compile(r"confirmar", re.I), exact=True),
+        page.get_by_role(
+            "button",
+            name=re.compile(
+                r"confirmar|continuar|selecionar",
+                re.I,
+            ),
+        ),
+        page.get_by_text(
+            re.compile(
+                r"^confirmar$",
+                re.I,
+            ),
+        ),
     ])
+
     if confirmar:
         try:
             confirmar.click()
             page.wait_for_timeout(5000)
         except Exception:
             pass
-    return True, None
 
+    return True, None
 
 def local_confirmado(texto):
     t = norm(texto)
