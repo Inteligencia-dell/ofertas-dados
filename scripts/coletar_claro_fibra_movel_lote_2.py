@@ -214,6 +214,28 @@ def selecionar_cidade(page, cidade, uf):
             except Exception as erro:
                 return False, "Falha ao preencher cidade: %s" % str(erro)[:150]
         page.wait_for_timeout(3500)
+
+        # O autocomplete da Claro retorna um identificador estavel e sem acentos.
+        # Este seletor precisa ser tentado antes dos localizadores baseados no texto.
+        seletor_autocomplete = (
+            "button[data-gtm-event-label='alterar-cidade-%s-%s']"
+            % (slug(cidade), uf.lower())
+        )
+        opcao = primeiro_visivel([
+            page.locator(seletor_autocomplete),
+        ])
+
+        if opcao is not None:
+            try:
+                opcao.click()
+            except Exception as erro:
+                return False, (
+                    "Falha ao selecionar %s/%s: %s"
+                    % (cidade, uf, str(erro)[:130])
+                )
+            page.wait_for_timeout(ESPERA_CIDADE)
+            return True, None
+
         opcoes = [
             page.get_by_role("option", name=re.compile(padrao_texto, re.I)),
             page.get_by_role("button", name=re.compile(padrao_texto, re.I)),
