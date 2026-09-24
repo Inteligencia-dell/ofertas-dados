@@ -1,0 +1,72 @@
+name: Piloto Desktop Campinas v5 - modelo Claro
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: piloto-desktop-campinas-modelo-claro-v5
+  cancel-in-progress: false
+
+jobs:
+  testar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - name: Obter repositorio
+        uses: actions/checkout@v4
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar Playwright
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Validar coletor v5
+        run: |
+          test -f scripts/coletar_desktop_campinas_modelo_claro_v5.py
+          python -m py_compile scripts/coletar_desktop_campinas_modelo_claro_v5.py
+      - name: Testar Desktop Campinas
+        run: python scripts/coletar_desktop_campinas_modelo_claro_v5.py
+      - name: Resumo modelo Claro
+        if: always()
+        run: |
+          if [ -f dados/piloto-desktop-campinas-modelo-claro-v5.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d=json.load(open('dados/piloto-desktop-campinas-modelo-claro-v5.json',encoding='utf-8'))
+          print('### Desktop Campinas - Fibra e Fibra + Movel')
+          print('')
+          print('| Indicador | Valor |')
+          print('|---|---:|')
+          print('| Localizacao confirmada | %s |' % d.get('locationConfirmed',False))
+          print('| Ofertas Fibra | %s |' % len(d.get('fiberOffers',[])))
+          print('| Ofertas Fibra + Movel | %s |' % len(d.get('fiberMobileOffers',[])))
+          print('| Ofertas com TV aceitas | %s |' % d.get('tvOffersAccepted',0))
+          print('')
+          print('### Fibra')
+          for o in d.get('fiberOffers',[]):
+              print('- %s + Desktop Play de cortesia - R$ %.2f - apos R$ %s' % (o['name'],o['monthlyPrice'],o.get('postPromotionPrice')))
+          print('')
+          print('### Fibra + Movel')
+          for o in d.get('fiberMobileOffers',[]):
+              print('- %s - R$ %.2f - apos R$ %s' % (o['name'],o['monthlyPrice'],o.get('postPromotionPrice')))
+          print('')
+          print('Status: %s' % d.get('status'))
+          print('Motivo: %s' % d.get('reason','-'))
+          PY
+          fi
+        shell: bash
+      - name: Publicar evidencias
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: piloto-desktop-campinas-modelo-claro-v5-evidencias
+          path: |
+            dados/piloto-desktop-campinas-modelo-claro-v5.json
+            evidencias-desktop-campinas-modelo-claro-v5/
+          if-no-files-found: warn
+          retention-days: 7
