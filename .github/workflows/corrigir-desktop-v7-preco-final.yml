@@ -1,0 +1,100 @@
+name: Corrigir Desktop v7 - preco Fibra final
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  corrigir:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Obter repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Corrigir funcao de preco
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          arquivo = Path('scripts/coletar_desktop_campinas_modelo_claro_v7.py')
+          texto = arquivo.read_text(encoding='utf-8')
+
+          inicio = texto.index('def valor(texto,posterior=False):')
+          fim = texto.index('\ndef fibra(', inicio)
+
+          funcao = r'''def valor(texto,posterior=False):
+              """Extrai o preco do plano e ignora valores informativos do Desktop Play."""
+              texto = re.sub(r'\s+', ' ', texto or '').strip()
+              if posterior:
+                  padrao = r'Ap[oó]s[,]?\s*R\$\s*([0-9]{1,4})\s*[,.]\s*([0-9]{2})'
+              else:
+                  padrao = r'R\$\s*([0-9]{1,4})\s*[,.]\s*([0-9]{2})\s*Por\s+6\s+meses'
+              m = re.search(padrao, texto, re.I)
+              return round(float(f'{m.group(1)}.{m.group(2)}'), 2) if m else None
+          '''
+
+          arquivo.write_text(texto[:inicio] + funcao + texto[fim:], encoding='utf-8')
+          print('Funcao de preco substituida com sucesso.')
+          PY
+
+      - name: Validar sintaxe e precos sem importar Playwright
+        run: |
+          python -m py_compile scripts/coletar_desktop_campinas_modelo_claro_v7.py
+          python - <<'PY'
+          import ast
+          import re
+          from pathlib import Path
+
+          caminho = Path('scripts/coletar_desktop_campinas_modelo_claro_v7.py')
+          codigo = caminho.read_text(encoding='utf-8')
+          arvore = ast.parse(codigo)
+          funcao = next(
+              no for no in arvore.body
+              if isinstance(no, ast.FunctionDef) and no.name == 'valor'
+          )
+          modulo = ast.Module(body=[funcao], type_ignores=[])
+          ast.fix_missing_locations(modulo)
+          ambiente = {'re': re}
+          exec(compile(modulo, '<teste-preco>', 'exec'), ambiente)
+          valor = ambiente['valor']
+
+          fibra_600 = 'Desktop Play de cortesia. Apos esse periodo R$ 29,99. R$ 99,99 Por 6 meses. Apos, R$ 109,99'
+          fibra_1g = 'Desktop Play de cortesia. Apos esse periodo R$ 29,99. R$ 119,99 Por 6 meses. Após, R$ 139,99'
+          movel_15 = '600 Mega + 15 Giga Celular R$ 129,99 Por 6 meses. Após, R$ 139,99'
+          movel_20 = '600 Mega + 20 Giga Celular R$ 139,99 Por 6 meses. Após, R$ 149,99'
+
+          testes = [
+              (valor(fibra_600), 99.99),
+              (valor(fibra_600, True), 109.99),
+              (valor(fibra_1g), 119.99),
+              (valor(fibra_1g, True), 139.99),
+              (valor(movel_15), 129.99),
+              (valor(movel_15, True), 139.99),
+              (valor(movel_20), 139.99),
+              (valor(movel_20, True), 149.99),
+          ]
+          for obtido, esperado in testes:
+              assert obtido == esperado, (obtido, esperado)
+
+          assert valor('Desktop Play R$ 29,99') is None
+          print('Validacao concluida: todos os oito precos estao corretos.')
+          PY
+
+      - name: Persistir correcao
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/coletar_desktop_campinas_modelo_claro_v7.py
+          if git diff --cached --quiet; then
+            echo "O script ja estava corrigido."
+          else
+            git commit -m "Corrigir preco Fibra Desktop v7"
+            git push
+          fi
