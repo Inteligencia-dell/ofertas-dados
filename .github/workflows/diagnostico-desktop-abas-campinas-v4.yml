@@ -1,0 +1,54 @@
+name: Diagnostico Desktop v4 - abas Internet e Celular
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  diagnosticar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar Playwright
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Validar
+        run: |
+          test -f scripts/diagnosticar_desktop_abas_campinas_v4.py
+          python -m py_compile scripts/diagnosticar_desktop_abas_campinas_v4.py
+      - name: Diagnosticar abas
+        run: python scripts/diagnosticar_desktop_abas_campinas_v4.py
+      - name: Resumo
+        if: always()
+        run: |
+          if [ -f dados/diagnostico-desktop-abas-campinas-v4.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d=json.load(open('dados/diagnostico-desktop-abas-campinas-v4.json',encoding='utf-8'))
+          print('### Desktop v4 - diagnostico das abas')
+          print('')
+          print('| Indicador | Internet | Internet + Celular |')
+          print('|---|---:|---:|')
+          a=d.get('tabs',{}).get('internet',{}); b=d.get('tabs',{}).get('internet_celular',{})
+          print('| Clique executado | %s | %s |' % (a.get('click',{}).get('clicked'),b.get('click',{}).get('clicked')))
+          print('| Conteudo alterado | %s | %s |' % (a.get('bodyChanged'),b.get('bodyChanged')))
+          print('| Cards encontrados | %s | %s |' % (a.get('cardsFound',0),b.get('cardsFound',0)))
+          print('')
+          print('#### Inventario de elementos Internet/Celular')
+          for x in d.get('clickableInventory',[]): print('- %s | %s | %s | %s' % (x.get('tag'),x.get('text'),x.get('href'),x.get('id')))
+          PY
+          fi
+      - name: Publicar evidencias
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostico-desktop-abas-campinas-v4-evidencias
+          path: |
+            dados/diagnostico-desktop-abas-campinas-v4.json
+            evidencias-desktop-abas-campinas-v4/
+          if-no-files-found: warn
+          retention-days: 7
