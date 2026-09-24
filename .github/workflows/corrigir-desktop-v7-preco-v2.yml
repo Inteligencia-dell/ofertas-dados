@@ -1,0 +1,55 @@
+name: Corrigir Desktop v7 - preco Fibra v2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  corrigir:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Obter repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencia para validacao
+        run: pip install playwright
+
+      - name: Aplicar correcao de preco
+        run: python scripts/patch_desktop_v7_preco.py
+
+      - name: Validar script corrigido
+        run: |
+          python -m py_compile scripts/coletar_desktop_campinas_modelo_claro_v7.py
+          python - <<'PYTEST'
+          import importlib.util
+          p='scripts/coletar_desktop_campinas_modelo_claro_v7.py'
+          spec=importlib.util.spec_from_file_location('m',p)
+          m=importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(m)
+          a='Desktop Play de cortesia R$ 29,99 R$ 99,99 Por 6 meses. Apos, R$ 109,99'
+          b='Desktop Play de cortesia R$ 29,99 R$ 119,99 Por 6 meses. Após, R$ 139,99'
+          assert m.valor(a) == 99.99, m.valor(a)
+          assert m.valor(a, True) == 109.99, m.valor(a, True)
+          assert m.valor(b) == 119.99, m.valor(b)
+          assert m.valor(b, True) == 139.99, m.valor(b, True)
+          print('Precos validados: 99.99/109.99 e 119.99/139.99')
+          PYTEST
+
+      - name: Persistir correcao
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/coletar_desktop_campinas_modelo_claro_v7.py
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao pendente."
+          else
+            git commit -m "Corrigir preco das ofertas Fibra Desktop"
+            git push
+          fi
