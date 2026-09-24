@@ -1,0 +1,76 @@
+name: Piloto Desktop v3 - Fibra e Convergente - Campinas
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: piloto-desktop-campinas-v3
+  cancel-in-progress: false
+
+jobs:
+  testar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - name: Obter repositorio
+        uses: actions/checkout@v4
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar Playwright e Chromium
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Validar piloto v3
+        run: |
+          test -f scripts/coletar_desktop_campinas_piloto_v3.py
+          python -m py_compile scripts/coletar_desktop_campinas_piloto_v3.py
+      - name: Coletar Fibra e Convergente
+        run: python scripts/coletar_desktop_campinas_piloto_v3.py
+      - name: Resumo
+        if: always()
+        run: |
+          if [ -f dados/piloto-desktop-campinas-v3.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d=json.load(open('dados/piloto-desktop-campinas-v3.json',encoding='utf-8'))
+          print('### Desktop Campinas v3 - Fibra e Convergente')
+          print('')
+          print('| Indicador | Valor |')
+          print('|---|---:|')
+          print('| HTTP | %s |' % d.get('httpStatus'))
+          print('| Cidade selecionada | %s |' % d.get('citySelected'))
+          print('| Campinas em breve | %s |' % d.get('campinasComingSoon'))
+          print('| Aba Internet aberta | %s |' % d.get('internetTabOpened'))
+          print('| Aba Internet + Celular aberta | %s |' % d.get('internetMobileTabOpened'))
+          print('| Ofertas Fibra | %s |' % len(d.get('fiberOffers',[])))
+          print('| Fibra com Desktop Play de cortesia | %s |' % d.get('desktopPlayCourtesyOffers',0))
+          print('| Ofertas Convergentes | %s |' % len(d.get('fiberMobileOffers',[])))
+          print('| Ofertas com TV aceitas | %s |' % d.get('tvOffersAccepted',0))
+          print('| Status | %s |' % d.get('status'))
+          print('| Motivo | %s |' % d.get('reason','-'))
+          print('')
+          for o in d.get('fiberOffers',[]):
+              print('- Fibra: %s - R$ %.2f - Play cortesia: %s - apos %s' % (o['name'],o['monthlyPrice'],o.get('desktopPlayCourtesy'),o.get('postPromotionPrice')))
+          for o in d.get('fiberMobileOffers',[]):
+              print('- Convergente: %s - R$ %.2f - apos %s' % (o['name'],o['monthlyPrice'],o.get('postPromotionPrice')))
+          PY
+          else
+            echo 'Resultado nao gerado.' >> "$GITHUB_STEP_SUMMARY"
+          fi
+        shell: bash
+      - name: Publicar evidencias
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: piloto-desktop-campinas-v3-evidencias
+          path: |
+            dados/piloto-desktop-campinas-v3.json
+            evidencias-desktop-campinas-v3/
+          if-no-files-found: warn
+          retention-days: 7
