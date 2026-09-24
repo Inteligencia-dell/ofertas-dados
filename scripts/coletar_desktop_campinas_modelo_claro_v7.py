@@ -83,9 +83,14 @@ def selecionar_cards(textos, categoria):
     return selecionados
 
 def valor(texto,posterior=False):
-    padrao=r'Ap[oó]s[,]?\s*R\$\s*([0-9]{1,4})\s*[,.]\s*([0-9]{2})' if posterior else r'R\$\s*([0-9]{1,4})\s*[,.]\s*([0-9]{2})'
-    m=re.search(padrao,texto or '',re.I)
-    return round(float(f'{m.group(1)}.{m.group(2)}'),2) if m else None
+    """Extrai o preco do plano e ignora valores informativos do Desktop Play."""
+    texto = re.sub(r'\s+', ' ', texto or '').strip()
+    if posterior:
+        padrao = r'Ap[oó]s[,]?\s*R\$\s*([0-9]{1,4})\s*[,.]\s*([0-9]{2})'
+    else:
+        padrao = r'R\$\s*([0-9]{1,4})\s*[,.]\s*([0-9]{2})\s*Por\s+6\s+meses'
+    m = re.search(padrao, texto, re.I)
+    return round(float(f'{m.group(1)}.{m.group(2)}'), 2) if m else None
 
 def fibra(item):
     texto=item.get('card');titulo=item.get('title','')
