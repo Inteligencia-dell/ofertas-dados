@@ -1,91 +1,91 @@
 {
  "overall": "red",
- "updated": "2026-09-25T09:37:14+00:00",
+ "updated": "2026-09-25T15:36:15+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-09-25T09:37:14+00:00"
+  "reference": "2026-09-25T15:36:15+00:00"
  },
  "counts": {
   "green": 0,
-  "yellow": 297,
-  "red": 263
+  "yellow": 436,
+  "red": 124
  },
- "alertCount": 263,
+ "alertCount": 124,
  "alerts": [
   {
-   "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · AGUDOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · ARARAS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · CASA BRANCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · AMERICANA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · ELIAS FAUSTO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · ESPIRITO SANTO DO PINHAL: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · AMPARO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · IBIUNA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · ANDRADINA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · INDAIATUBA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · APARECIDA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · ITAPETININGA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · ARACATUBA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · LIMEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · ARARAQUARA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · LOUVEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · ARARAS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · MARILIA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · MOCOCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · AVARE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · MOGI GUACU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BADY BASSITT: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · MOGI MIRIM: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BARRETOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · MONTE MOR: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BARRINHA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · OURINHOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BATATAIS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · PIEDADE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BAURU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · PRESIDENTE PRUDENTE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BEBEDOURO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · REGISTRO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BERTIOGA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · RIO CLARO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BIRIGUI: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · SANTA CRUZ DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BOITUVA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · SAO JOAO DA BOA VISTA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · BOTUCATU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · SAO JOSE DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · CACAPAVA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · SOROCABA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Claro · CACHOEIRA PAULISTA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
+   "msg": "Alares · TAMBAU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   }
  ],
  "environment": "producao",
