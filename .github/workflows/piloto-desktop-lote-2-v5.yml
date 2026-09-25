@@ -1,0 +1,77 @@
+name: Piloto Desktop v5 - Lote 2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: piloto-desktop-lote-2-v5
+  cancel-in-progress: false
+
+jobs:
+  testar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar Playwright
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Validar coletor
+        run: |
+          test -f scripts/coletar_desktop_lote_2_v5.py
+          python -m py_compile scripts/coletar_desktop_lote_2_v5.py
+      - name: Executar lote 2
+        run: python scripts/coletar_desktop_lote_2_v5.py
+      - name: Resumo
+        if: always()
+        run: |
+          if [ -f dados/piloto-desktop-lote-2-v5.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d = json.load(open('dados/piloto-desktop-lote-2-v5.json', encoding='utf-8'))
+          s = d.get('summary', {})
+          print('### Desktop v5 - Lote 2')
+          print('')
+          print('| Indicador | Valor |')
+          print('|---|---:|')
+          print('| Cidades esperadas | 20 |')
+          print('| Cidades processadas | %s |' % s.get('citiesProcessed', 0))
+          print('| Localizacoes confirmadas | %s |' % s.get('locationsConfirmed', 0))
+          print('| Cidades com Fibra | %s |' % s.get('citiesWithFiber', 0))
+          print('| Cidades com Fibra + Movel | %s |' % s.get('citiesWithFiberMobile', 0))
+          print('| Ofertas com TV aceitas | %s |' % s.get('tvOffersAccepted', 0))
+          print('| Pendencias territoriais | %s |' % s.get('territorialPending', 0))
+          print('')
+          for r in d.get('results', []):
+              print('#### %s/SP' % r.get('city'))
+              for o in r.get('fiberOffers', []):
+                  print('- Fibra: %s - R$ %.2f - apos R$ %s' % (
+                      o['name'], o['monthlyPrice'], o.get('postPromotionPrice')))
+              for o in r.get('fiberMobileOffers', []):
+                  print('- Fibra + Movel: %s - R$ %.2f - apos R$ %s' % (
+                      o['name'], o['monthlyPrice'], o.get('postPromotionPrice')))
+              tab = r.get('tabDiagnostics') or {}
+              if r.get('locationConfirmed') and not r.get('fiberMobileOffers'):
+                  print('- Aba celular mudou: %s | cards internet: %s | cards celular: %s' % (
+                      tab.get('mobileTabChanged'), tab.get('internetCards'), tab.get('mobileCards')))
+              if r.get('reason'):
+                  print('- Motivo: %s' % r['reason'])
+          PY
+          fi
+      - name: Publicar evidencias
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: piloto-desktop-lote-2-v5-evidencias
+          path: |
+            dados/piloto-desktop-lote-2-v5.json
+            evidencias-desktop-lote-2-v5/
+          if-no-files-found: warn
+          retention-days: 7
