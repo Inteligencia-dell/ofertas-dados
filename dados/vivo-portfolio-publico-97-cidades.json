@@ -1,6 +1,6 @@
 {
   "operator": "Vivo",
-  "generated": "2026-09-25T19:50:53+00:00",
+  "generated": "2026-09-28T09:34:23+00:00",
   "source": "https://internet.vivo.com.br/ofertas/fibra-e-pos/",
   "collectionMode": "portfolio_publico_replicado_como_referencia",
   "territorialScope": "publico_nao_confirmado",
@@ -8141,7 +8141,7 @@
   "productionFilesChanged": false,
   "disclaimer": "Oferta publica de referencia. Disponibilidade, preco e viabilidade tecnica nao confirmados por municipio.",
   "httpStatus": 200,
-  "portfolioChanged": true,
+  "portfolioChanged": false,
   "evidenceHtml": "evidencias-vivo-portfolio-publico-97-cidades/vivo-portfolio-publico.html",
   "evidenceScreenshot": "evidencias-vivo-portfolio-publico-97-cidades/vivo-portfolio-publico.png"
 }
