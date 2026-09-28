@@ -1,91 +1,91 @@
 {
  "overall": "red",
- "updated": "2026-09-27T21:34:37+00:00",
+ "updated": "2026-09-28T09:39:47+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-09-27T21:34:37+00:00"
+  "reference": "2026-09-28T09:39:47+00:00"
  },
  "counts": {
   "green": 0,
-  "yellow": 339,
-  "red": 221
+  "yellow": 436,
+  "red": 124
  },
- "alertCount": 221,
+ "alertCount": 124,
  "alerts": [
   {
-   "msg": "Vivo · ADAMANTINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · AMERICANA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · ARARAS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · CASA BRANCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · AMPARO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · ELIAS FAUSTO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · ANDRADINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · ESPIRITO SANTO DO PINHAL: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · APARECIDA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · IBIUNA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · ARACATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · INDAIATUBA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · ARARAQUARA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · ITAPETININGA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · ARARAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · LIMEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · LOUVEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · AVARE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · MARILIA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · BARRETOS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · MOCOCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · BAURU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · MOGI GUACU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · BEBEDOURO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · MOGI MIRIM: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · BERTIOGA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · MONTE MOR: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · BIRIGUI: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · OURINHOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · BOITUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · PIEDADE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · BOTUCATU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · PRESIDENTE PRUDENTE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · CACAPAVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · REGISTRO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · CAMPINAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · RIO CLARO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · CAMPOS DO JORDAO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · SANTA CRUZ DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · CARAGUATATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · SAO JOAO DA BOA VISTA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · CATANDUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · SAO JOSE DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · COSMOPOLIS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · SOROCABA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   },
   {
-   "msg": "Vivo · CRUZEIRO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Alares · TAMBAU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
   }
  ],
  "environment": "producao",
