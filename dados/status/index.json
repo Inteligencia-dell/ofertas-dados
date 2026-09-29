@@ -1,91 +1,91 @@
 {
  "overall": "red",
- "updated": "2026-09-28T21:35:26+00:00",
+ "updated": "2026-09-29T09:39:42+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-09-28T21:35:26+00:00"
+  "reference": "2026-09-29T09:39:42+00:00"
  },
  "counts": {
   "green": 0,
-  "yellow": 339,
-  "red": 221
+  "yellow": 298,
+  "red": 262
  },
- "alertCount": 221,
+ "alertCount": 262,
  "alerts": [
   {
-   "msg": "Vivo · ADAMANTINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · AMERICANA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · AGUDOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · AMPARO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · AMERICANA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · ANDRADINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · APARECIDA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · AMPARO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · ARACATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · ANDRADINA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · ARARAQUARA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · APARECIDA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · ARARAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · ARACATUBA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · ARARAQUARA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · AVARE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · ARARAS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · BARRETOS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · BAURU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · AVARE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · BEBEDOURO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BADY BASSITT: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · BERTIOGA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BARRETOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · BIRIGUI: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BARRINHA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · BOITUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BATATAIS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · BOTUCATU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BAURU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · CACAPAVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BEBEDOURO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · CAMPINAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BERTIOGA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · CAMPOS DO JORDAO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BIRIGUI: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · CARAGUATATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BOITUVA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · CATANDUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · BOTUCATU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · COSMOPOLIS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · CACAPAVA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   },
   {
-   "msg": "Vivo · CRUZEIRO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30)"
+   "msg": "Claro · CACHOEIRA PAULISTA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium: Playwright TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.claro.com.br/internet\", waiting until \"dom)"
   }
  ],
  "environment": "producao",
