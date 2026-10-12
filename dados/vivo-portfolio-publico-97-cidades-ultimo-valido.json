@@ -1,6 +1,6 @@
 {
   "operator": "Vivo",
-  "generated": "2026-10-05T09:37:20+00:00",
+  "generated": "2026-10-12T19:06:07+00:00",
   "source": "https://internet.vivo.com.br/ofertas/fibra-e-pos/",
   "collectionMode": "portfolio_publico_replicado_como_referencia",
   "territorialScope": "publico_nao_confirmado",
@@ -20,24 +20,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -114,24 +103,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -208,24 +186,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -302,24 +269,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -396,24 +352,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -490,24 +435,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -584,24 +518,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -678,24 +601,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -772,24 +684,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -866,24 +767,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -960,24 +850,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1054,24 +933,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1148,24 +1016,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1242,24 +1099,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1336,24 +1182,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1430,24 +1265,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1524,24 +1348,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1618,24 +1431,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1712,24 +1514,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1806,24 +1597,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1900,24 +1680,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -1994,24 +1763,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2088,24 +1846,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2182,24 +1929,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2276,24 +2012,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2370,24 +2095,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2464,24 +2178,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2558,24 +2261,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2652,24 +2344,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2746,24 +2427,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2840,24 +2510,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -2934,24 +2593,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3028,24 +2676,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3122,24 +2759,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3216,24 +2842,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3310,24 +2925,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3404,24 +3008,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3498,24 +3091,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3592,24 +3174,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3686,24 +3257,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3780,24 +3340,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3874,24 +3423,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -3968,24 +3506,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4062,24 +3589,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4156,24 +3672,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4250,24 +3755,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4344,24 +3838,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4438,24 +3921,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4532,24 +4004,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4626,24 +4087,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4720,24 +4170,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4814,24 +4253,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -4908,24 +4336,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5002,24 +4419,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5096,24 +4502,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5190,24 +4585,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5284,24 +4668,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5378,24 +4751,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5472,24 +4834,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5566,24 +4917,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5660,24 +5000,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5754,24 +5083,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5848,24 +5166,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -5942,24 +5249,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6036,24 +5332,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6130,24 +5415,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6224,24 +5498,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6318,24 +5581,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6412,24 +5664,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6506,24 +5747,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6600,24 +5830,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6694,24 +5913,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6788,24 +5996,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6882,24 +6079,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -6976,24 +6162,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7070,24 +6245,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7164,24 +6328,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7258,24 +6411,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7352,24 +6494,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7446,24 +6577,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7540,24 +6660,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7634,24 +6743,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7728,24 +6826,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7822,24 +6909,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -7916,24 +6992,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8010,24 +7075,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8104,24 +7158,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8198,24 +7241,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8292,24 +7324,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8386,24 +7407,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8480,24 +7490,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8574,24 +7573,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8668,24 +7656,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8762,24 +7739,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8856,24 +7822,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -8950,24 +7905,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -9044,24 +7988,13 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 600 Mega",
-          "fixedSpeedMb": 600,
-          "monthlyPrice": 100.0,
-          "previousPrice": null,
-          "tvIncluded": false,
-          "sourceSection": "vivo_fibra",
-          "cardId": "fibra-600-100"
-        },
-        {
-          "offerType": "fibra",
-          "convergenceType": null,
           "name": "Vivo Fibra 700 Mega",
           "fixedSpeedMb": 700,
-          "monthlyPrice": 150.0,
-          "previousPrice": null,
+          "monthlyPrice": 100.0,
+          "previousPrice": 150.0,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-150"
+          "cardId": "fibra-700-100"
         },
         {
           "offerType": "fibra",
@@ -9132,24 +8065,13 @@
     {
       "offerType": "fibra",
       "convergenceType": null,
-      "name": "Vivo Fibra 600 Mega",
-      "fixedSpeedMb": 600,
-      "monthlyPrice": 100.0,
-      "previousPrice": null,
-      "tvIncluded": false,
-      "sourceSection": "vivo_fibra",
-      "cardId": "fibra-600-100"
-    },
-    {
-      "offerType": "fibra",
-      "convergenceType": null,
       "name": "Vivo Fibra 700 Mega",
       "fixedSpeedMb": 700,
-      "monthlyPrice": 150.0,
-      "previousPrice": null,
+      "monthlyPrice": 100.0,
+      "previousPrice": 150.0,
       "tvIncluded": false,
       "sourceSection": "vivo_fibra",
-      "cardId": "fibra-700-150"
+      "cardId": "fibra-700-100"
     },
     {
       "offerType": "fibra",
