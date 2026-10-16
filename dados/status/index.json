@@ -1,13 +1,13 @@
 {
- "overall": "red",
- "updated": "2026-10-15T23:45:56+00:00",
+ "overall": "yellow",
+ "updated": "2026-10-16T14:05:14+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-10-15T23:45:56+00:00"
+  "reference": "2026-10-16T14:05:14+00:00"
  },
  "counts": {
-  "green": 0,
-  "yellow": 436,
+  "green": 1,
+  "yellow": 435,
   "red": 124
  },
  "alertCount": 124,
