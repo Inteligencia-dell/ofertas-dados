@@ -1,6 +1,6 @@
 {
   "operator": "Vivo",
-  "generated": "2026-10-12T19:06:07+00:00",
+  "generated": "2026-10-19T16:30:04+00:00",
   "source": "https://internet.vivo.com.br/ofertas/fibra-e-pos/",
   "collectionMode": "portfolio_publico_replicado_como_referencia",
   "territorialScope": "publico_nao_confirmado",
@@ -20,13 +20,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -60,18 +71,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -103,13 +114,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -143,18 +165,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -186,13 +208,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -226,18 +259,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -269,13 +302,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -309,18 +353,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -352,13 +396,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -392,18 +447,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -435,13 +490,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -475,18 +541,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -518,13 +584,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -558,18 +635,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -601,13 +678,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -641,18 +729,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -684,13 +772,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -724,18 +823,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -767,13 +866,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -807,18 +917,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -850,13 +960,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -890,18 +1011,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -933,13 +1054,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -973,18 +1105,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1016,13 +1148,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1056,18 +1199,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1099,13 +1242,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1139,18 +1293,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1182,13 +1336,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1222,18 +1387,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1265,13 +1430,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1305,18 +1481,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1348,13 +1524,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1388,18 +1575,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1431,13 +1618,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1471,18 +1669,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1514,13 +1712,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1554,18 +1763,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1597,13 +1806,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1637,18 +1857,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1680,13 +1900,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1720,18 +1951,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1763,13 +1994,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1803,18 +2045,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1846,13 +2088,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1886,18 +2139,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -1929,13 +2182,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -1969,18 +2233,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2012,13 +2276,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2052,18 +2327,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2095,13 +2370,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2135,18 +2421,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2178,13 +2464,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2218,18 +2515,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2261,13 +2558,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2301,18 +2609,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2344,13 +2652,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2384,18 +2703,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2427,13 +2746,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2467,18 +2797,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2510,13 +2840,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2550,18 +2891,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2593,13 +2934,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2633,18 +2985,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2676,13 +3028,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2716,18 +3079,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2759,13 +3122,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2799,18 +3173,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2842,13 +3216,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2882,18 +3267,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -2925,13 +3310,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -2965,18 +3361,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3008,13 +3404,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3048,18 +3455,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3091,13 +3498,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3131,18 +3549,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3174,13 +3592,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3214,18 +3643,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3257,13 +3686,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3297,18 +3737,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3340,13 +3780,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3380,18 +3831,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3423,13 +3874,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3463,18 +3925,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3506,13 +3968,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3546,18 +4019,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3589,13 +4062,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3629,18 +4113,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3672,13 +4156,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3712,18 +4207,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3755,13 +4250,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3795,18 +4301,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3838,13 +4344,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3878,18 +4395,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -3921,13 +4438,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -3961,18 +4489,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4004,13 +4532,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4044,18 +4583,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4087,13 +4626,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4127,18 +4677,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4170,13 +4720,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4210,18 +4771,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4253,13 +4814,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4293,18 +4865,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4336,13 +4908,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4376,18 +4959,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4419,13 +5002,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4459,18 +5053,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4502,13 +5096,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4542,18 +5147,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4585,13 +5190,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4625,18 +5241,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4668,13 +5284,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4708,18 +5335,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4751,13 +5378,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4791,18 +5429,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4834,13 +5472,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4874,18 +5523,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -4917,13 +5566,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -4957,18 +5617,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5000,13 +5660,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5040,18 +5711,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5083,13 +5754,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5123,18 +5805,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5166,13 +5848,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5206,18 +5899,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5249,13 +5942,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5289,18 +5993,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5332,13 +6036,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5372,18 +6087,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5415,13 +6130,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5455,18 +6181,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5498,13 +6224,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5538,18 +6275,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5581,13 +6318,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5621,18 +6369,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5664,13 +6412,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5704,18 +6463,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5747,13 +6506,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5787,18 +6557,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5830,13 +6600,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5870,18 +6651,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5913,13 +6694,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -5953,18 +6745,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -5996,13 +6788,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6036,18 +6839,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6079,13 +6882,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6119,18 +6933,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6162,13 +6976,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6202,18 +7027,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6245,13 +7070,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6285,18 +7121,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6328,13 +7164,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6368,18 +7215,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6411,13 +7258,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6451,18 +7309,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6494,13 +7352,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6534,18 +7403,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6577,13 +7446,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6617,18 +7497,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6660,13 +7540,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6700,18 +7591,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6743,13 +7634,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6783,18 +7685,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6826,13 +7728,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6866,18 +7779,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6909,13 +7822,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -6949,18 +7873,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -6992,13 +7916,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7032,18 +7967,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7075,13 +8010,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7115,18 +8061,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7158,13 +8104,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7198,18 +8155,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7241,13 +8198,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7281,18 +8249,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7324,13 +8292,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7364,18 +8343,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7407,13 +8386,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7447,18 +8437,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7490,13 +8480,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7530,18 +8531,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7573,13 +8574,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7613,18 +8625,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7656,13 +8668,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7696,18 +8719,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7739,13 +8762,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7779,18 +8813,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7822,13 +8856,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7862,18 +8907,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7905,13 +8950,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -7945,18 +9001,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -7988,13 +9044,24 @@
         {
           "offerType": "fibra",
           "convergenceType": null,
-          "name": "Vivo Fibra 700 Mega",
-          "fixedSpeedMb": 700,
+          "name": "Vivo Fibra 600 Mega",
+          "fixedSpeedMb": 600,
           "monthlyPrice": 100.0,
-          "previousPrice": 150.0,
+          "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_fibra",
-          "cardId": "fibra-700-100"
+          "cardId": "fibra-600-100"
+        },
+        {
+          "offerType": "fibra",
+          "convergenceType": null,
+          "name": "Vivo Fibra 700 Mega",
+          "fixedSpeedMb": 700,
+          "monthlyPrice": 150.0,
+          "previousPrice": null,
+          "tvIncluded": false,
+          "sourceSection": "vivo_fibra",
+          "cardId": "fibra-700-150"
         },
         {
           "offerType": "fibra",
@@ -8028,18 +9095,18 @@
         {
           "offerType": "convergente",
           "convergenceType": "fibra_movel",
-          "name": "500 Mega + Pos 60 GB",
+          "name": "500 Mega + Pos 100 GB",
           "commercialName": "Vivo Total Pro",
           "fixedSpeedMb": 500,
           "mobilePlanType": "pos",
-          "mobileAllowanceGb": 60,
+          "mobileAllowanceGb": 100,
           "mobileBaseAllowanceGb": 50,
-          "mobileBonusGb": 10,
+          "mobileBonusGb": 50,
           "monthlyPrice": 160.0,
           "previousPrice": null,
           "tvIncluded": false,
           "sourceSection": "vivo_total",
-          "cardId": "total-essencial-500-70-160"
+          "cardId": "total-pro-500-100-160"
         },
         {
           "offerType": "convergente",
@@ -8065,13 +9132,24 @@
     {
       "offerType": "fibra",
       "convergenceType": null,
-      "name": "Vivo Fibra 700 Mega",
-      "fixedSpeedMb": 700,
+      "name": "Vivo Fibra 600 Mega",
+      "fixedSpeedMb": 600,
       "monthlyPrice": 100.0,
-      "previousPrice": 150.0,
+      "previousPrice": null,
       "tvIncluded": false,
       "sourceSection": "vivo_fibra",
-      "cardId": "fibra-700-100"
+      "cardId": "fibra-600-100"
+    },
+    {
+      "offerType": "fibra",
+      "convergenceType": null,
+      "name": "Vivo Fibra 700 Mega",
+      "fixedSpeedMb": 700,
+      "monthlyPrice": 150.0,
+      "previousPrice": null,
+      "tvIncluded": false,
+      "sourceSection": "vivo_fibra",
+      "cardId": "fibra-700-150"
     },
     {
       "offerType": "fibra",
@@ -8105,18 +9183,18 @@
     {
       "offerType": "convergente",
       "convergenceType": "fibra_movel",
-      "name": "500 Mega + Pos 60 GB",
+      "name": "500 Mega + Pos 100 GB",
       "commercialName": "Vivo Total Pro",
       "fixedSpeedMb": 500,
       "mobilePlanType": "pos",
-      "mobileAllowanceGb": 60,
+      "mobileAllowanceGb": 100,
       "mobileBaseAllowanceGb": 50,
-      "mobileBonusGb": 10,
+      "mobileBonusGb": 50,
       "monthlyPrice": 160.0,
       "previousPrice": null,
       "tvIncluded": false,
       "sourceSection": "vivo_total",
-      "cardId": "total-essencial-500-70-160"
+      "cardId": "total-pro-500-100-160"
     },
     {
       "offerType": "convergente",
