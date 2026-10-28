@@ -1,93 +1,93 @@
 {
  "overall": "yellow",
- "updated": "2026-10-28T00:36:35+00:00",
+ "updated": "2026-10-28T16:11:52+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-10-28T00:36:35+00:00"
+  "reference": "2026-10-28T16:11:52+00:00"
  },
  "counts": {
-  "green": 139,
-  "yellow": 297,
-  "red": 124
+  "green": 1,
+  "yellow": 200,
+  "red": 359
  },
- "alertCount": 124,
+ "alertCount": 359,
  "alerts": [
   {
-   "msg": "Alares · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · ADAMANTINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · ARARAS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · AGUDOS: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · CASA BRANCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · ELIAS FAUSTO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · AMERICANA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · ESPIRITO SANTO DO PINHAL: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · IBIUNA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · AMPARO: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · INDAIATUBA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · ANDRADINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · ITAPETININGA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · APARECIDA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · LIMEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARACATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · LOUVEIRA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARARAQUARA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · MARILIA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARARAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · MOCOCA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · MOGI GUACU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · AVARE: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · MOGI MIRIM: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BADY BASSITT: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · MONTE MOR: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BARRETOS: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · OURINHOS: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BARRINHA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · PIEDADE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BATATAIS: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · PRESIDENTE PRUDENTE: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BAURU: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · REGISTRO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BEBEDOURO: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · RIO CLARO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BERTIOGA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · SANTA CRUZ DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BIRIGUI: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · SAO JOAO DA BOA VISTA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BOITUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · SAO JOSE DO RIO PARDO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · BOTUCATU: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · SOROCABA: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · CACAPAVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   },
   {
-   "msg": "Alares · TAMBAU: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
+   "msg": "Claro · CACHOEIRA PAULISTA: FONTE_SITE nao validou a oferta (HTTP: HTTP 504 | Chromium: Chromium retornou pagina vazia)"
   }
  ],
  "environment": "producao",
- "coverage": "539 de 560 pontos cidade-operadora"
+ "coverage": "540 de 560 pontos cidade-operadora"
 }
