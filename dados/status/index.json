@@ -1,9 +1,9 @@
 {
  "overall": "red",
- "updated": "2026-10-31T19:26:19+00:00",
+ "updated": "2026-11-01T00:15:40+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-10-31T19:26:19+00:00"
+  "reference": "2026-11-01T00:15:40+00:00"
  },
  "counts": {
   "green": 0,
@@ -13,79 +13,79 @@
  "alertCount": 220,
  "alerts": [
   {
-   "msg": "Vivo · ADAMANTINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · ADAMANTINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · AMERICANA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · AMERICANA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · AMERICO BRASILIENSE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · AMPARO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · AMPARO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · ANDRADINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · ANDRADINA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · APARECIDA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · APARECIDA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · ARACATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · ARACATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · ARARAQUARA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · ARARAQUARA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · ARARAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · ARARAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · ARTUR NOGUEIRA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · AVARE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · AVARE: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · BARRETOS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · BARRETOS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · BAURU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · BAURU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · BEBEDOURO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · BEBEDOURO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · BERTIOGA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · BERTIOGA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · BIRIGUI: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · BIRIGUI: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · BOITUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · BOITUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · BOTUCATU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · BOTUCATU: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · CACAPAVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · CACAPAVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · CAMPINAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · CAMPINAS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · CAMPOS DO JORDAO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · CAMPOS DO JORDAO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · CARAGUATATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · CARAGUATATUBA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · CATANDUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · CATANDUVA: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · COSMOPOLIS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · COSMOPOLIS: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   },
   {
-   "msg": "Vivo · CRUZEIRO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Playwright Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30)"
+   "msg": "Vivo · CRUZEIRO: FONTE_SITE nao validou a oferta (HTTP: HTTP 403 | Chromium: Chromium recebeu HTTP 403)"
   }
  ],
  "environment": "producao",
