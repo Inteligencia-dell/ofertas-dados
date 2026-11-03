@@ -1,16 +1,16 @@
 {
  "overall": "yellow",
- "updated": "2026-11-03T03:03:32+00:00",
+ "updated": "2026-11-03T17:12:32+00:00",
  "freshness": {
   "ageHours": 0,
-  "reference": "2026-11-03T03:03:32+00:00"
+  "reference": "2026-11-03T17:12:32+00:00"
  },
  "counts": {
-  "green": 1,
-  "yellow": 432,
-  "red": 127
+  "green": 85,
+  "yellow": 352,
+  "red": 123
  },
- "alertCount": 127,
+ "alertCount": 123,
  "alerts": [
   {
    "msg": "Alares · ALVARES MACHADO: FONTE_SITE nao validou a oferta (HTTP sem preco/velocidade extraiveis | Chromium sem preco/velocidade extraiveis)"
